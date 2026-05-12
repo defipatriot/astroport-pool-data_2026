@@ -1,0 +1,1751 @@
+{
+  "schemaVersion": 2,
+  "capturedAt": "2026-05-12T13:11:15.172Z",
+  "capturedAtUnix": 1778591475172,
+  "period": 184,
+  "runMode": "daily",
+  "chartRange": "D30",
+  "discoveryMethod": "astroport-pools-getAll + tla-staking-contracts (total_staked_balances)",
+  "stats": {
+    "ok": 36,
+    "deprecated": 0,
+    "failed": 0,
+    "total": 36
+  },
+  "pools": [
+    {
+      "name": "LUNA-ampLUNA",
+      "rawName": "LUNA - ampLUNA",
+      "bucket": "project",
+      "poolContract": "terra1cupwgntu082ypw2ztgtxfzcenexcu6ggp5zzunn3yzfwgrvdcclqgjrjqg",
+      "lpAddress": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4",
+      "poolType": "concentrated",
+      "astroportTvlUsd": 1221570,
+      "astroportDayVolumeUsd": 11338,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 987057.0445454544,
+          "avgVolume": 6941.218238380949,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "181": {
+          "avgLiquidity": 1023281.25,
+          "avgVolume": 5038.283470928572,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "182": {
+          "avgLiquidity": 1161333.9727272727,
+          "avgVolume": 17626.43596821429,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "183": {
+          "avgLiquidity": 1251258.627,
+          "avgVolume": 12260.973725952386,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "184": {
+          "avgLiquidity": 1228293.5733333335,
+          "avgVolume": 670.309342928571,
+          "liqPointCount": 3,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 1228293.5733333335,
+      "spotLiquidity": 1228293.5733333335,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-USDC",
+      "rawName": "LUNA - USDC",
+      "bucket": "stable",
+      "poolContract": "terra1v3lqxl0eyte9x3nhdgcj8hwvjq76aupnnzz0yll8mxs5cckc29pqvg2scu",
+      "lpAddress": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx",
+      "poolType": "concentrated",
+      "astroportTvlUsd": 724736,
+      "astroportDayVolumeUsd": 111561,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 632468.6818181818,
+          "avgVolume": 10263.353510404753,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "181": {
+          "avgLiquidity": 664381.9859999999,
+          "avgVolume": 10632.085663404758,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "182": {
+          "avgLiquidity": 714996.6745454544,
+          "avgVolume": 36144.51019964287,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "183": {
+          "avgLiquidity": 718223.5199999999,
+          "avgVolume": 25872.282120333308,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "184": {
+          "avgLiquidity": 725734.66,
+          "avgVolume": 3897.583470285717,
+          "liqPointCount": 3,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 725734.66,
+      "spotLiquidity": 725734.66,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "USDC-EURe",
+      "rawName": "USDC - EURe",
+      "bucket": "bluechip",
+      "poolContract": "terra1ys7edvw89krf47n4zsz4c4m9das7ppltjtfv2epw85thqpvl6hhqn55m6y",
+      "lpAddress": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn",
+      "poolType": "concentrated",
+      "astroportTvlUsd": 314841,
+      "astroportDayVolumeUsd": 3381.18,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 405223.2136363636,
+          "avgVolume": 466.48530297619044,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "181": {
+          "avgLiquidity": 292454.91599999997,
+          "avgVolume": 206.00825976190475,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "182": {
+          "avgLiquidity": 306902.6381818182,
+          "avgVolume": 1029.456262452381,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "183": {
+          "avgLiquidity": 314273.71499999997,
+          "avgVolume": 744.758111357143,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "184": {
+          "avgLiquidity": 315435.08666666667,
+          "avgVolume": 123.28126483333338,
+          "liqPointCount": 3,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 315435.08666666667,
+      "spotLiquidity": 315435.08666666667,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "USDC-USDT",
+      "rawName": "USDC - USDT",
+      "bucket": "bluechip",
+      "poolContract": "terra1dnssvse0fqw4d4gqc8kvchfud5r6e8cr7w9cdpervhl2pgr2eecquujpg6",
+      "lpAddress": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry",
+      "poolType": "stable",
+      "astroportTvlUsd": 311604,
+      "astroportDayVolumeUsd": 3727.06,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 263123.9390909091,
+          "avgVolume": 251.23216535714286,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "181": {
+          "avgLiquidity": 293711.816,
+          "avgVolume": 191.89670338095237,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "182": {
+          "avgLiquidity": 298766.8690909091,
+          "avgVolume": 398.24222361904754,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "183": {
+          "avgLiquidity": 307005.03299999994,
+          "avgVolume": 349.92306080952375,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "184": {
+          "avgLiquidity": 311532.25666666665,
+          "avgVolume": 112.95139116666667,
+          "liqPointCount": 3,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 311532.25666666665,
+      "spotLiquidity": 311532.25666666665,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-WBTC",
+      "rawName": "LUNA - WBTC",
+      "bucket": "bluechip",
+      "poolContract": "terra1mea829xtsnxwv4l9lhzs0tzpnyamjpz5y45a9tpp06jgdhjd48yqc4ales",
+      "lpAddress": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js",
+      "poolType": "concentrated",
+      "astroportTvlUsd": 134173,
+      "astroportDayVolumeUsd": 2676.66,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 90894.31545454546,
+          "avgVolume": 539.5252718809523,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "181": {
+          "avgLiquidity": 116341.581,
+          "avgVolume": 723.7291490000001,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "182": {
+          "avgLiquidity": 126325.50727272728,
+          "avgVolume": 2926.3853585952384,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "183": {
+          "avgLiquidity": 135259.956,
+          "avgVolume": 1596.4183638571433,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "184": {
+          "avgLiquidity": 134390.71333333335,
+          "avgVolume": 276.97292816666663,
+          "liqPointCount": 3,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 134390.71333333335,
+      "spotLiquidity": 134390.71333333335,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "USDC-SOLID",
+      "rawName": "USDC - SOLID",
+      "bucket": "project",
+      "poolContract": "terra1fwjxdjpl98shj20l4swlen9hyu4lhvekrvqkqn393lzzghmsn2wqjdnvpu",
+      "lpAddress": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk",
+      "poolType": "xyk",
+      "astroportTvlUsd": 118712,
+      "astroportDayVolumeUsd": 151.121,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 112082.29090909091,
+          "avgVolume": 1058.8708268571434,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "181": {
+          "avgLiquidity": 113097.147,
+          "avgVolume": 996.3910180238092,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "182": {
+          "avgLiquidity": 116843.41454545454,
+          "avgVolume": 1527.3372397380947,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "183": {
+          "avgLiquidity": 118730.56300000001,
+          "avgVolume": 176.2741470714286,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "184": {
+          "avgLiquidity": 118639.96333333333,
+          "avgVolume": 6.846078952380951,
+          "liqPointCount": 3,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 118639.96333333333,
+      "spotLiquidity": 118639.96333333333,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-PAXG",
+      "rawName": "LUNA - PAXG",
+      "bucket": "bluechip",
+      "poolContract": "terra1xgdyzzhs2v2ne3us2kyj5ry47fwc7uk44k035dyyygq42xechwwqlddmcr",
+      "lpAddress": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc",
+      "poolType": "concentrated",
+      "astroportTvlUsd": 110624,
+      "astroportDayVolumeUsd": 1961.87,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 5535.955454545454,
+          "avgVolume": 41.93431702380953,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "181": {
+          "avgLiquidity": 89590.84199999999,
+          "avgVolume": 411.10190547619044,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "182": {
+          "avgLiquidity": 103658.17636363638,
+          "avgVolume": 815.5738258095238,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "183": {
+          "avgLiquidity": 109729.52000000002,
+          "avgVolume": 435.3971170000001,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "184": {
+          "avgLiquidity": 110353.91333333333,
+          "avgVolume": 122.45581473809523,
+          "liqPointCount": 3,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 110353.91333333333,
+      "spotLiquidity": 110353.91333333333,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-arbLUNA",
+      "rawName": "LUNA - arbLUNA",
+      "bucket": "single",
+      "poolContract": "terra1p9lcjw8knxhtv2pyr9wa8e2ushjnjllljvsuu9cugv7trqynjzasz4x52j",
+      "lpAddress": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0",
+      "poolType": "concentrated",
+      "astroportTvlUsd": 93941.4,
+      "astroportDayVolumeUsd": 355.589,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 45616.65909090909,
+          "avgVolume": 56.19361485714286,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "181": {
+          "avgLiquidity": 61740.653999999995,
+          "avgVolume": 66.99505564285714,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "182": {
+          "avgLiquidity": 73992.96272727272,
+          "avgVolume": 251.1327446666666,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "183": {
+          "avgLiquidity": 90169.563,
+          "avgVolume": 213.1469056904761,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "184": {
+          "avgLiquidity": 93213.13666666667,
+          "avgVolume": 16.134090952380955,
+          "liqPointCount": 3,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 93213.13666666667,
+      "spotLiquidity": 93213.13666666667,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-INJ",
+      "rawName": "LUNA - INJ",
+      "bucket": "bluechip",
+      "poolContract": "terra10m23jmgtx0lvc6v5gffdmcutlmrgy9pnf8wun4mxft2xd3dnqdvsv392j5",
+      "lpAddress": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl",
+      "poolType": "xyk",
+      "astroportTvlUsd": 86574.1,
+      "astroportDayVolumeUsd": 6681.13,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 7663.056363636363,
+          "avgVolume": 37.36819669047619,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "181": {
+          "avgLiquidity": 49264.618,
+          "avgVolume": 155.29968483333334,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "182": {
+          "avgLiquidity": 56032.96454545455,
+          "avgVolume": 502.322428904762,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "183": {
+          "avgLiquidity": 73428.91799999999,
+          "avgVolume": 403.62293054761903,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "184": {
+          "avgLiquidity": 83727.68666666666,
+          "avgVolume": 96.22976814285714,
+          "liqPointCount": 3,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 83727.68666666666,
+      "spotLiquidity": 83727.68666666666,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "PAXG-WBTC",
+      "rawName": "PAXG - WBTC",
+      "bucket": "single",
+      "poolContract": "terra1g55qjcptzqgdyqfgzu5mj8x82955rvlxy4c37z5t6ldgz7cz033q0xr2lx",
+      "lpAddress": "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr",
+      "poolType": "concentrated",
+      "astroportTvlUsd": 82625.2,
+      "astroportDayVolumeUsd": 1094.94,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 82.59,
+          "avgVolume": 0.13740309523809524,
+          "liqPointCount": 2,
+          "volPointCount": 1
+        },
+        "181": {
+          "avgLiquidity": 64958.456000000006,
+          "avgVolume": 292.5632124523809,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "182": {
+          "avgLiquidity": 69595.80818181818,
+          "avgVolume": 643.2865866190475,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "183": {
+          "avgLiquidity": 77005.69200000001,
+          "avgVolume": 234.26336992857145,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "184": {
+          "avgLiquidity": 82922.73,
+          "avgVolume": 117.8607604761905,
+          "liqPointCount": 3,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 82922.73,
+      "spotLiquidity": 82922.73,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-CAPA",
+      "rawName": "CAPA - LUNA",
+      "bucket": "project",
+      "poolContract": "terra183wqgrwa2k0uvlz99j57c496gfuwgtaccrhv4stcjzv3ydacl9zq0hmf25",
+      "lpAddress": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564",
+      "poolType": "concentrated",
+      "astroportTvlUsd": 80558.2,
+      "astroportDayVolumeUsd": 743.44,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 51115.48636363635,
+          "avgVolume": 194.56461423809526,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "181": {
+          "avgLiquidity": 54543.653000000006,
+          "avgVolume": 98.13652147619048,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "182": {
+          "avgLiquidity": 70452.21545454544,
+          "avgVolume": 174.25185569047622,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "183": {
+          "avgLiquidity": 84421.984,
+          "avgVolume": 67.8328595238095,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "184": {
+          "avgLiquidity": 82369.28333333334,
+          "avgVolume": 7.620613071428571,
+          "liqPointCount": 3,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 82369.28333333334,
+      "spotLiquidity": 82369.28333333334,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-FUEL",
+      "rawName": "FUEL - LUNA",
+      "bucket": "project",
+      "poolContract": "terra10yfnsqn20rzlnlzkeva5255q27zp6ws9te9uuql9e0lacfcze7zsffjct5",
+      "lpAddress": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44",
+      "poolType": "concentrated",
+      "astroportTvlUsd": 67572.4,
+      "astroportDayVolumeUsd": 25.3144,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 50880.148181818186,
+          "avgVolume": 3.6300364999999992,
+          "liqPointCount": 11,
+          "volPointCount": 5
+        },
+        "181": {
+          "avgLiquidity": 56429.63300000001,
+          "avgVolume": 2.5321986190476187,
+          "liqPointCount": 10,
+          "volPointCount": 2
+        },
+        "182": {
+          "avgLiquidity": 64261.937272727264,
+          "avgVolume": 6.247940023809525,
+          "liqPointCount": 11,
+          "volPointCount": 7
+        },
+        "183": {
+          "avgLiquidity": 69364.00700000001,
+          "avgVolume": 2.7054498333333337,
+          "liqPointCount": 10,
+          "volPointCount": 1
+        },
+        "184": {
+          "avgLiquidity": 68008.59666666666,
+          "avgVolume": 2.9491295952380954,
+          "liqPointCount": 3,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 68008.59666666666,
+      "spotLiquidity": 68008.59666666666,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-EURe",
+      "rawName": "LUNA - EURe",
+      "bucket": "stable",
+      "poolContract": "terra1vhxl8ggscmhae3muvwvs2vs8ppprzqf07xngcdp798fwnrcksjxszqfa8n",
+      "lpAddress": "terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc",
+      "poolType": "concentrated",
+      "astroportTvlUsd": 48836,
+      "astroportDayVolumeUsd": 1417.69,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 50643.19363636363,
+          "avgVolume": 174.40225883333335,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "181": {
+          "avgLiquidity": 43401.045000000006,
+          "avgVolume": 108.02083780952383,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "182": {
+          "avgLiquidity": 47162.47,
+          "avgVolume": 651.8016350952379,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "183": {
+          "avgLiquidity": 49490.106999999996,
+          "avgVolume": 421.93045340476186,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "184": {
+          "avgLiquidity": 49088.66333333333,
+          "avgVolume": 95.1008975,
+          "liqPointCount": 3,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 49088.66333333333,
+      "spotLiquidity": 49088.66333333333,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-ROAR",
+      "rawName": "ROAR - LUNA",
+      "bucket": "project",
+      "poolContract": "terra189v2ewgfx5wdhje6geefdtxefeemujplk8qw2wx3x5hdswn95l8qf4n2r0",
+      "lpAddress": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm",
+      "poolType": "concentrated",
+      "astroportTvlUsd": 42519.6,
+      "astroportDayVolumeUsd": 902.188,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 33010.69181818182,
+          "avgVolume": 17.68598242857143,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "181": {
+          "avgLiquidity": 34725.201,
+          "avgVolume": 9.176102380952383,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "182": {
+          "avgLiquidity": 40137.30090909091,
+          "avgVolume": 62.52714266666666,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "183": {
+          "avgLiquidity": 42246.553,
+          "avgVolume": 22.44545883333333,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "184": {
+          "avgLiquidity": 42649.13333333333,
+          "avgVolume": 64.52493245238095,
+          "liqPointCount": 3,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 42649.13333333333,
+      "spotLiquidity": 42649.13333333333,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-ATOM",
+      "rawName": "ATOM - LUNA",
+      "bucket": "bluechip",
+      "poolContract": "terra1j3d29y506cvtavdpakdzl6e0g2xcskvmmulsetcd0jfwrpr8eu9qfe0dmf",
+      "lpAddress": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt",
+      "poolType": "xyk",
+      "astroportTvlUsd": 24632.2,
+      "astroportDayVolumeUsd": 725.739,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 55831.05454545456,
+          "avgVolume": 220.63802290476193,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "181": {
+          "avgLiquidity": 22324.064,
+          "avgVolume": 112.2381299047619,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "182": {
+          "avgLiquidity": 22824.34545454545,
+          "avgVolume": 335.3721523571428,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "183": {
+          "avgLiquidity": 24119.676,
+          "avgVolume": 170.09077357142857,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "184": {
+          "avgLiquidity": 24512.483333333334,
+          "avgVolume": 64.09058947619047,
+          "liqPointCount": 3,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 24512.483333333334,
+      "spotLiquidity": 24512.483333333334,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-USDT",
+      "rawName": "USDT - LUNA",
+      "bucket": "stable",
+      "poolContract": "terra1aategw0787y4fyunmwdvdqraxfc8jtxykyed2skx3p5fd3lkgkmsqry7pz",
+      "lpAddress": "terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4",
+      "poolType": "concentrated",
+      "astroportTvlUsd": 24389.5,
+      "astroportDayVolumeUsd": 763.792,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 16374.868181818181,
+          "avgVolume": 63.736835023809505,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "181": {
+          "avgLiquidity": 20177.881,
+          "avgVolume": 97.00204338095237,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "182": {
+          "avgLiquidity": 23943.9790909091,
+          "avgVolume": 285.6880578333334,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "183": {
+          "avgLiquidity": 24439.626,
+          "avgVolume": 195.66249928571432,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "184": {
+          "avgLiquidity": 24453.11333333333,
+          "avgVolume": 39.38027690476191,
+          "liqPointCount": 3,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 24453.11333333333,
+      "spotLiquidity": 24453.11333333333,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-bLUNA",
+      "rawName": "bLUNA - LUNA",
+      "bucket": "project",
+      "poolContract": "terra1h32epkd72x7st0wk49z35qlpsxf26pw4ydacs8acq6uka7hgshmq7z7vl9",
+      "lpAddress": "terra1h3z2zv6aw94fx5263dy6tgz6699kxmewlx3vrcu4jjrudg6xmtyqk6vt0u",
+      "poolType": "stable",
+      "astroportTvlUsd": 20864.7,
+      "astroportDayVolumeUsd": 0,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 0,
+          "avgVolume": 1.7114389523809521,
+          "liqPointCount": 0,
+          "volPointCount": 4
+        },
+        "181": {
+          "avgLiquidity": 13446.128,
+          "avgVolume": 10.098355238095237,
+          "liqPointCount": 10,
+          "volPointCount": 4
+        },
+        "182": {
+          "avgLiquidity": 17524.02181818182,
+          "avgVolume": 6.210936666666666,
+          "liqPointCount": 11,
+          "volPointCount": 4
+        },
+        "183": {
+          "avgLiquidity": 21388.142,
+          "avgVolume": 60.17443730952379,
+          "liqPointCount": 10,
+          "volPointCount": 6
+        },
+        "184": {
+          "avgLiquidity": 21401.039999999997,
+          "avgVolume": 0.13000833333333334,
+          "liqPointCount": 3,
+          "volPointCount": 1
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 21401.039999999997,
+      "spotLiquidity": 21401.039999999997,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-SOLID",
+      "rawName": "SOLID - LUNA",
+      "bucket": "stable",
+      "poolContract": "terra1e45ctmel6t5m9vdgxv3zxh3ecflkfcd6mr42sluzrqnhveqmy3fss338s7",
+      "lpAddress": "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8",
+      "poolType": "xyk",
+      "astroportTvlUsd": 12667.4,
+      "astroportDayVolumeUsd": 111.85,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 11616.152727272727,
+          "avgVolume": 63.11589619047619,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "181": {
+          "avgLiquidity": 11961.64,
+          "avgVolume": 80.01912926190478,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "182": {
+          "avgLiquidity": 12270.18090909091,
+          "avgVolume": 187.50172750000002,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "183": {
+          "avgLiquidity": 12824.009000000002,
+          "avgVolume": 62.4013331904762,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "184": {
+          "avgLiquidity": 12697.106666666667,
+          "avgVolume": 5.456985809523809,
+          "liqPointCount": 3,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 12697.106666666667,
+      "spotLiquidity": 12697.106666666667,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-arbLUNA",
+      "rawName": "arbLUNA - LUNA",
+      "bucket": "single",
+      "poolContract": "terra16nfwldn9j5xhry2y78gvm3x4vte8vu77zr3ctlan79w5f5aheawqnz7a4f",
+      "lpAddress": "terra19z7g4fnu529250sdkdmgm9kw4qgwmmqrjas9t24ll84mpd94lxnshf0z2h",
+      "poolType": "stable",
+      "astroportTvlUsd": 12384.9,
+      "astroportDayVolumeUsd": 10.5789,
+      "isDeregistered": true,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 0,
+          "avgVolume": 5.974271476190476,
+          "liqPointCount": 0,
+          "volPointCount": 11
+        },
+        "181": {
+          "avgLiquidity": 0,
+          "avgVolume": 5.098092952380952,
+          "liqPointCount": 0,
+          "volPointCount": 10
+        },
+        "182": {
+          "avgLiquidity": 0,
+          "avgVolume": 25.29726697619048,
+          "liqPointCount": 0,
+          "volPointCount": 11
+        },
+        "183": {
+          "avgLiquidity": 0,
+          "avgVolume": 20.27952978571429,
+          "liqPointCount": 0,
+          "volPointCount": 10
+        },
+        "184": {
+          "avgLiquidity": 12384.9,
+          "avgVolume": 0.8532616666666667,
+          "liqPointCount": 1,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 12384.9,
+      "spotLiquidity": 12384.9,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "ATOM-dATOM",
+      "rawName": "ATOM - dATOM",
+      "bucket": "single",
+      "poolContract": "terra1a0h6vrzkztjystg8sd949qyrc6mw9gzxk2870cr2mukg53uzgvqs46qul9",
+      "lpAddress": "terra12mvtdvn4fgtsqs4fwxr56vcwjw0xe23lhdfyjq5ghk7vmfeuxn0srau9q2",
+      "poolType": "concentrated",
+      "astroportTvlUsd": 7785.55,
+      "astroportDayVolumeUsd": 1090.17,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 0,
+          "avgVolume": 98.5050359047619,
+          "liqPointCount": 0,
+          "volPointCount": 11
+        },
+        "181": {
+          "avgLiquidity": 0,
+          "avgVolume": 730.2197317380947,
+          "liqPointCount": 0,
+          "volPointCount": 10
+        },
+        "182": {
+          "avgLiquidity": 0,
+          "avgVolume": 285.3388637142857,
+          "liqPointCount": 0,
+          "volPointCount": 11
+        },
+        "183": {
+          "avgLiquidity": 0,
+          "avgVolume": 135.33005145238093,
+          "liqPointCount": 0,
+          "volPointCount": 10
+        },
+        "184": {
+          "avgLiquidity": 7785.55,
+          "avgVolume": 73.96287342857143,
+          "liqPointCount": 1,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 7785.55,
+      "spotLiquidity": 7785.55,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-stLUNA",
+      "rawName": "stLUNA - LUNA",
+      "bucket": "project",
+      "poolContract": "terra1re0yj0j6e9v2szg7kp02ut6u8jjea586t6pnpq6628wl36fphtpqwt6l7p",
+      "lpAddress": "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc",
+      "poolType": "stable",
+      "astroportTvlUsd": 7553.33,
+      "astroportDayVolumeUsd": 0,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 7831.721818181818,
+          "avgVolume": 6.441226571428571,
+          "liqPointCount": 11,
+          "volPointCount": 3
+        },
+        "181": {
+          "avgLiquidity": 6305.2789999999995,
+          "avgVolume": 0.0006188095238095238,
+          "liqPointCount": 10,
+          "volPointCount": 1
+        },
+        "182": {
+          "avgLiquidity": 6872.660000000001,
+          "avgVolume": 0,
+          "liqPointCount": 11,
+          "volPointCount": 0
+        },
+        "183": {
+          "avgLiquidity": 7643.931,
+          "avgVolume": 0.002586619047619048,
+          "liqPointCount": 10,
+          "volPointCount": 2
+        },
+        "184": {
+          "avgLiquidity": 7593.509999999999,
+          "avgVolume": 0,
+          "liqPointCount": 3,
+          "volPointCount": 0
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 7593.509999999999,
+      "spotLiquidity": 7593.509999999999,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-ASTRO",
+      "rawName": "ASTRO - LUNA",
+      "bucket": "project",
+      "poolContract": "terra1nwepezm3mghyxm7fjfhfr2d4jwqzndtncf9tclgunqfcwhe52mpq4sxaqr",
+      "lpAddress": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht",
+      "poolType": "concentrated",
+      "astroportTvlUsd": 1419.27,
+      "astroportDayVolumeUsd": 403.06,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 22464.387272727272,
+          "avgVolume": 220.33722511904756,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "181": {
+          "avgLiquidity": 1234.3880000000001,
+          "avgVolume": 45.96838452380952,
+          "liqPointCount": 10,
+          "volPointCount": 9
+        },
+        "182": {
+          "avgLiquidity": 1182.515454545454,
+          "avgVolume": 107.94135969047619,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "183": {
+          "avgLiquidity": 1186.6199999999997,
+          "avgVolume": 63.00282533333335,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "184": {
+          "avgLiquidity": 1264.1699999999998,
+          "avgVolume": 22.42296419047619,
+          "liqPointCount": 3,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 1264.1699999999998,
+      "spotLiquidity": 1264.1699999999998,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "wstETH-WETH.axl",
+      "rawName": "wstETH - WETH.axl",
+      "bucket": "single",
+      "poolContract": "terra1yga5eepqnpg77gaj59uqfkm2qtllvpq642cmx5gj5lzjf5v88wzs2srzp7",
+      "lpAddress": "terra18336lhc2vt9s9tw4pqetvdwywg9555rduzv527r9q47smw89epcsxgxuny",
+      "poolType": "xyk",
+      "astroportTvlUsd": 1052.61,
+      "astroportDayVolumeUsd": 0.716673,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 2145.41,
+          "avgVolume": 0.4008431904761905,
+          "liqPointCount": 8,
+          "volPointCount": 4
+        },
+        "181": {
+          "avgLiquidity": 1023.1499999999999,
+          "avgVolume": 0.5514200714285715,
+          "liqPointCount": 10,
+          "volPointCount": 4
+        },
+        "182": {
+          "avgLiquidity": 1023.1499999999997,
+          "avgVolume": 0.5901612619047618,
+          "liqPointCount": 11,
+          "volPointCount": 4
+        },
+        "183": {
+          "avgLiquidity": 1023.1499999999999,
+          "avgVolume": 0.018377142857142856,
+          "liqPointCount": 10,
+          "volPointCount": 1
+        },
+        "184": {
+          "avgLiquidity": 1032.97,
+          "avgVolume": 0.2666207857142857,
+          "liqPointCount": 3,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 1032.97,
+      "spotLiquidity": 1032.97,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-WBTC.axl",
+      "rawName": "LUNA - WBTC.axl",
+      "bucket": "bluechip",
+      "poolContract": "terra1afkvgc0mxfqakqlaqpxdgy58n79x4r239q3tucxmrsqvqk7ce3ksnctxfu",
+      "lpAddress": "terra1a5apghncafx0nem740fsrmd6demaywvp332a4uat63u2jtwn8mgsz7khkw",
+      "poolType": "concentrated",
+      "astroportTvlUsd": 916.998,
+      "astroportDayVolumeUsd": 14.8906,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 55521.85363636364,
+          "avgVolume": 330.90102933333327,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "181": {
+          "avgLiquidity": 7595.144999999999,
+          "avgVolume": 29.75775035714285,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "182": {
+          "avgLiquidity": 5169.522727272729,
+          "avgVolume": 207.03164504761904,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "183": {
+          "avgLiquidity": 3464.537999999999,
+          "avgVolume": 42.22330769047618,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "184": {
+          "avgLiquidity": 918.8466666666667,
+          "avgVolume": 0.5172549285714286,
+          "liqPointCount": 3,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 918.8466666666667,
+      "spotLiquidity": 918.8466666666667,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-SWTH",
+      "rawName": "SWTH - LUNA",
+      "bucket": "project",
+      "poolContract": "terra1crlsemxx6yjpeq3am9dzccln0dykusm685ecxscuyny7u596elqqj6xd9z",
+      "lpAddress": "terra1wwy8xjk4mff7qp2g7qzmgfu9agd6wjdmz99crj94zv9tmh7dvhmq0jsf6a",
+      "poolType": "xyk",
+      "astroportTvlUsd": 772.325,
+      "astroportDayVolumeUsd": 0,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 0,
+          "avgVolume": 2.193016404761905,
+          "liqPointCount": 0,
+          "volPointCount": 8
+        },
+        "181": {
+          "avgLiquidity": 0,
+          "avgVolume": 0.49396952380952375,
+          "liqPointCount": 0,
+          "volPointCount": 5
+        },
+        "182": {
+          "avgLiquidity": 0,
+          "avgVolume": 2.294415452380952,
+          "liqPointCount": 0,
+          "volPointCount": 10
+        },
+        "183": {
+          "avgLiquidity": 0,
+          "avgVolume": 5.8060060714285715,
+          "liqPointCount": 0,
+          "volPointCount": 6
+        },
+        "184": {
+          "avgLiquidity": 772.33,
+          "avgVolume": 2.1096860952380956,
+          "liqPointCount": 1,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 772.33,
+      "spotLiquidity": 772.33,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-wSOL.wh",
+      "rawName": "LUNA - wSOL.wh",
+      "bucket": "bluechip",
+      "poolContract": "terra16zzqwekwsqn4zlsyu4vhjr52ee2hdvppjcr8h22qznjadaazzdgsvd905d",
+      "lpAddress": "terra1vc66wpr2ghcesnf203em6yefpze3vrmq99n8yz0me3jzs6g4e8rs2kec75",
+      "poolType": "concentrated",
+      "astroportTvlUsd": 764.742,
+      "astroportDayVolumeUsd": 0,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "184": {
+          "avgLiquidity": 764.74,
+          "avgVolume": 0,
+          "liqPointCount": 1,
+          "volPointCount": 0
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 764.74,
+      "spotLiquidity": 764.74,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "ATOM-stATOM",
+      "rawName": "ATOM - stATOM",
+      "bucket": "single",
+      "poolContract": "terra1f9vmtntpjmkyhkxtlc49jcq6cv8rfz0kr06zv6efdtdgae4m9y9qlzm36t",
+      "lpAddress": "terra1pz99udaf85erk8lumjylczz0cuf70mmq9gns3ejxt7s3mk266mqq6gkqkn",
+      "poolType": "concentrated",
+      "astroportTvlUsd": 634.661,
+      "astroportDayVolumeUsd": 0,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 0,
+          "avgVolume": 0.011397,
+          "liqPointCount": 0,
+          "volPointCount": 1
+        },
+        "182": {
+          "avgLiquidity": 0,
+          "avgVolume": 0.056622619047619054,
+          "liqPointCount": 0,
+          "volPointCount": 2
+        },
+        "183": {
+          "avgLiquidity": 0,
+          "avgVolume": 0.05953285714285714,
+          "liqPointCount": 0,
+          "volPointCount": 2
+        },
+        "184": {
+          "avgLiquidity": 634.66,
+          "avgVolume": 0,
+          "liqPointCount": 1,
+          "volPointCount": 0
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 634.66,
+      "spotLiquidity": 634.66,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-wBNB.axl",
+      "rawName": "wBNB.axl - LUNA",
+      "bucket": "bluechip",
+      "poolContract": "terra10clh64cpvjjen8f24qz2046d24s79w2ev2dyd9ke29wmqdqp4yjs3cyk0y",
+      "lpAddress": "terra10ca0xhyjrzl3zk9g26yjxlw5rjplu5ts4jgcvvrgr62ml8jf57hqs3nck5",
+      "poolType": "concentrated",
+      "astroportTvlUsd": 495.437,
+      "astroportDayVolumeUsd": 0,
+      "isDeregistered": true,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 0,
+          "avgVolume": 1.6434007857142856,
+          "liqPointCount": 0,
+          "volPointCount": 2
+        },
+        "182": {
+          "avgLiquidity": 0,
+          "avgVolume": 0.007438761904761905,
+          "liqPointCount": 0,
+          "volPointCount": 1
+        },
+        "183": {
+          "avgLiquidity": 0,
+          "avgVolume": 0.5096509523809525,
+          "liqPointCount": 0,
+          "volPointCount": 2
+        },
+        "184": {
+          "avgLiquidity": 495.44,
+          "avgVolume": 0,
+          "liqPointCount": 1,
+          "volPointCount": 0
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 495.44,
+      "spotLiquidity": 495.44,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "WBTC.axl-WBTC.osmo",
+      "rawName": "WBTC.axl - WBTC.osmo",
+      "bucket": "single",
+      "poolContract": "terra1mps5z5gt2c2akwcp86mq0zhw66kdugtc3selcyradtje0vp0z49sfrk8jx",
+      "lpAddress": "terra10e2rz5etaped4nh0vk502hf7uwtz5lqvxqatxl4qyr0chcynxf2swhfwww",
+      "poolType": "stable",
+      "astroportTvlUsd": 415.191,
+      "astroportDayVolumeUsd": 17.027,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 85245.99636363637,
+          "avgVolume": 209.72767966666675,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "181": {
+          "avgLiquidity": 16566.291999999998,
+          "avgVolume": 93.11566826190477,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "182": {
+          "avgLiquidity": 15783.330909090908,
+          "avgVolume": 235.8825295238094,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "183": {
+          "avgLiquidity": 9853.642,
+          "avgVolume": 43.569633642857134,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "184": {
+          "avgLiquidity": 414.6033333333333,
+          "avgVolume": 1.213620619047619,
+          "liqPointCount": 3,
+          "volPointCount": 2
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 414.6033333333333,
+      "spotLiquidity": 414.6033333333333,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "SWTH-rSWTH",
+      "rawName": "SWTH - rSWTH",
+      "bucket": "single",
+      "poolContract": "terra1rzw2egugtjhxz2x58z55kwldm96fzck8qsf9srf5v0uehf64a2asjsak68",
+      "lpAddress": "terra1mnucaeckccseq66kglv299wasp02akyh535jcpcdu37tdakr92esf9mjm5",
+      "poolType": "xyk",
+      "astroportTvlUsd": 393.264,
+      "astroportDayVolumeUsd": 0,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "184": {
+          "avgLiquidity": 393.26,
+          "avgVolume": 0,
+          "liqPointCount": 1,
+          "volPointCount": 0
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 393.26,
+      "spotLiquidity": 393.26,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-WBTC",
+      "rawName": "WBTC - LUNA",
+      "bucket": "bluechip",
+      "poolContract": "terra1p996av7ftzj973swd4yt2er2sn3v9y5j9qfxz67gatnrpf8lfgwsel8hcg",
+      "lpAddress": "terra1tfr4ghftlsf2l9nxr3clewk52g5q8wj7m2rglw67dkql9x6u7w6q53gwrn",
+      "poolType": "concentrated",
+      "astroportTvlUsd": 54.0455,
+      "astroportDayVolumeUsd": 0,
+      "isDeregistered": true,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 0,
+          "avgVolume": 1.9070014523809522,
+          "liqPointCount": 0,
+          "volPointCount": 9
+        },
+        "181": {
+          "avgLiquidity": 0,
+          "avgVolume": 0.9718625000000001,
+          "liqPointCount": 0,
+          "volPointCount": 8
+        },
+        "182": {
+          "avgLiquidity": 0,
+          "avgVolume": 4.040477119047619,
+          "liqPointCount": 0,
+          "volPointCount": 11
+        },
+        "183": {
+          "avgLiquidity": 53.56,
+          "avgVolume": 1.657372357142857,
+          "liqPointCount": 4,
+          "volPointCount": 9
+        },
+        "184": {
+          "avgLiquidity": 53.723333333333336,
+          "avgVolume": 0,
+          "liqPointCount": 3,
+          "volPointCount": 0
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 53.723333333333336,
+      "spotLiquidity": 53.723333333333336,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-wstETH",
+      "rawName": "LUNA - wstETH",
+      "bucket": "bluechip",
+      "poolContract": "terra1u0sp5gaw9amfa8vsaaqvvjpqqdyz4eeslzdjsgaq40afctpx7f6s6augj2",
+      "lpAddress": "terra19d8tttv0lvhwpj828qqrcmm6yaqdfhrchfheuufcw4kywtmk9u3q98ask3",
+      "poolType": "concentrated",
+      "astroportTvlUsd": 53.2553,
+      "astroportDayVolumeUsd": 3.79088,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 244.65999999999985,
+          "avgVolume": 0.4161704761904761,
+          "liqPointCount": 10,
+          "volPointCount": 7
+        },
+        "181": {
+          "avgLiquidity": 48.199999999999996,
+          "avgVolume": 0.19467176190476185,
+          "liqPointCount": 10,
+          "volPointCount": 5
+        },
+        "182": {
+          "avgLiquidity": 48.199999999999996,
+          "avgVolume": 0.18145654761904761,
+          "liqPointCount": 11,
+          "volPointCount": 10
+        },
+        "183": {
+          "avgLiquidity": 48.199999999999996,
+          "avgVolume": 0.1272940476190476,
+          "liqPointCount": 10,
+          "volPointCount": 6
+        },
+        "184": {
+          "avgLiquidity": 49.88666666666666,
+          "avgVolume": 0.10719640476190476,
+          "liqPointCount": 3,
+          "volPointCount": 1
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 49.88666666666666,
+      "spotLiquidity": 49.88666666666666,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-wBNB.wh",
+      "rawName": "LUNA - wBNB.wh",
+      "bucket": "bluechip",
+      "poolContract": "terra1v3xmc8nn8h8e7z55d80a72g4rgz6mrxyasxq089k8n6m40xldlksf2w5x8",
+      "lpAddress": "terra12eu8jk4w7lgn2rk7xs46nz7c7r9fw8q98afy9adlwtkghazj40asjf65zu",
+      "poolType": "concentrated",
+      "astroportTvlUsd": 30.6961,
+      "astroportDayVolumeUsd": 0,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "184": {
+          "avgLiquidity": 30.7,
+          "avgVolume": 0,
+          "liqPointCount": 1,
+          "volPointCount": 0
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 30.7,
+      "spotLiquidity": 30.7,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "WHALE-ampWHALE",
+      "rawName": "WHALE - ampWHALE",
+      "bucket": "single",
+      "poolContract": "terra129hvq9mgqtye4kg0cfmv9z6sq5f7sgpmrspr72968xx20gx4t2rqvpue0z",
+      "lpAddress": "terra1zn0kcywt3epp6md4ugnprslf84hhxklwz4g0d8ck7ldf9uspudqqpmf0ya",
+      "poolType": "xyk",
+      "astroportTvlUsd": 5.22922,
+      "astroportDayVolumeUsd": 0,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "184": {
+          "avgLiquidity": 5.23,
+          "avgVolume": 0,
+          "liqPointCount": 1,
+          "volPointCount": 0
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 5.23,
+      "spotLiquidity": 5.23,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "WHALE-bWHALE",
+      "rawName": "WHALE - bWHALE",
+      "bucket": "single",
+      "poolContract": "terra18hhsyrjac6hud4tc9q05s8em35utm6jndswhw5v56lh5ld37ml6secl2rd",
+      "lpAddress": "terra1yxj707eppjphy4fshmt2rcqfnmat4ym58z6x9jk52mvte56ktv7sqfy2r5",
+      "poolType": "xyk",
+      "astroportTvlUsd": 5.16216,
+      "astroportDayVolumeUsd": 0,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "184": {
+          "avgLiquidity": 5.16,
+          "avgVolume": 0,
+          "liqPointCount": 1,
+          "volPointCount": 0
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 5.16,
+      "spotLiquidity": 5.16,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    },
+    {
+      "name": "LUNA-WHALE",
+      "rawName": "WHALE - LUNA",
+      "bucket": "project",
+      "poolContract": "terra1a6d0lcvfzyllulaaazzg5j70yn4m3e2t90shtlxsr3fwhcg34g2sgwfr75",
+      "lpAddress": "terra1stavsz7hhsw56tngxt6p5xmkm86a9nvgztgvv56wj7q6yceutmwsvrwjdz",
+      "poolType": "concentrated",
+      "astroportTvlUsd": 3.88375,
+      "astroportDayVolumeUsd": 0,
+      "isDeregistered": false,
+      "isBlocked": false,
+      "isHidden": false,
+      "epochs": {
+        "180": {
+          "avgLiquidity": 0,
+          "avgVolume": 9.523809523809525e-7,
+          "liqPointCount": 0,
+          "volPointCount": 1
+        },
+        "182": {
+          "avgLiquidity": 0,
+          "avgVolume": 0.0008314047619047618,
+          "liqPointCount": 0,
+          "volPointCount": 1
+        },
+        "183": {
+          "avgLiquidity": 0,
+          "avgVolume": 0.005405857142857142,
+          "liqPointCount": 0,
+          "volPointCount": 2
+        },
+        "184": {
+          "avgLiquidity": 3.88,
+          "avgVolume": 0,
+          "liqPointCount": 1,
+          "volPointCount": 0
+        }
+      },
+      "latestEpoch": 184,
+      "latestLiquidity": 3.88,
+      "spotLiquidity": 3.88,
+      "fetchOk": true,
+      "fetchErrors": {},
+      "deprecated": false,
+      "deprecatedReason": null
+    }
+  ]
+}
