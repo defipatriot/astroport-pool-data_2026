@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "cron": "astroport",
+  "capturedAt": "2026-05-14T23:50:26.916Z",
+  "capturedAtUnix": 1778802626916,
+  "runId": "astro-20260514235026",
+  "runMode": "daily",
+  "currentEpoch": 185,
+  "status": "ok",
+  "stats": {
+    "ok": 36,
+    "deprecated": 0,
+    "failed": 0,
+    "total": 36
+  },
+  "next_expected_run_at": "2026-05-15T23:50:26.916Z"
+}
