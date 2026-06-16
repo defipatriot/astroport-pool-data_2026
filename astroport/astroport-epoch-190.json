@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "capturedAt": "2026-06-15T23:50:23.020Z",
-  "capturedAtUnix": 1781567423020,
+  "capturedAt": "2026-06-16T23:50:23.937Z",
+  "capturedAtUnix": 1781653823937,
   "period": 190,
-  "runMode": "weekly",
+  "runMode": "daily",
   "chartRange": "D30",
   "discoveryMethod": "astroport-pools-getAll + tla-staking-contracts (total_staked_balances)",
   "stats": {
@@ -20,25 +20,25 @@
       "poolContract": "terra1cupwgntu082ypw2ztgtxfzcenexcu6ggp5zzunn3yzfwgrvdcclqgjrjqg",
       "lpAddress": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4",
       "poolType": "concentrated",
-      "astroportTvlUsd": 952174,
-      "astroportDayVolumeUsd": 34184.9,
-      "astroportStakedLiquidityUsd": 118668,
-      "astroportLpTotalSupply": "6234995114978",
-      "astroportDayFeesUsd": 27.4764,
-      "astroportFeeApr": 0.010532619038116982,
+      "astroportTvlUsd": 975038,
+      "astroportDayVolumeUsd": 32596.1,
+      "astroportStakedLiquidityUsd": 121543,
+      "astroportLpTotalSupply": "6235421867452",
+      "astroportDayFeesUsd": 26.344,
+      "astroportFeeApr": 0.00986172846596748,
       "astroportAssets": [
         {
           "symbol": "LUNA",
           "denom": "uluna",
-          "amount": "11161687979961",
-          "price_usd": 0.05341,
+          "amount": "11164121043445",
+          "price_usd": 0.054361,
           "precision": 6
         },
         {
           "symbol": "ampLUNA",
           "denom": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
-          "amount": "3121829037561",
-          "price_usd": 0.11453869725992773,
+          "amount": "3121496997247",
+          "price_usd": 0.11688654602090182,
           "precision": 6
         }
       ],
@@ -46,46 +46,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 1178743.94,
-          "avgVolume": 953.293846047618,
-          "liqPointCount": 1,
-          "volPointCount": 1
-        },
         "186": {
-          "avgLiquidity": 1108816.7618181817,
-          "avgVolume": 4611.487290404762,
-          "liqPointCount": 11,
-          "volPointCount": 11
+          "avgLiquidity": 1112997.825,
+          "avgVolume": 4208.163672547619,
+          "liqPointCount": 10,
+          "volPointCount": 10
         },
         "187": {
-          "avgLiquidity": 1080981.397,
-          "avgVolume": 5079.29414747619,
-          "liqPointCount": 10,
-          "volPointCount": 10
-        },
-        "188": {
-          "avgLiquidity": 970906.4909090907,
-          "avgVolume": 9406.801404833335,
+          "avgLiquidity": 1083952.1736363638,
+          "avgVolume": 5323.456359904764,
           "liqPointCount": 11,
           "volPointCount": 11
         },
-        "189": {
-          "avgLiquidity": 922986.862,
-          "avgVolume": 3464.093377,
+        "188": {
+          "avgLiquidity": 966489.9859999999,
+          "avgVolume": 8775.987246642859,
           "liqPointCount": 10,
           "volPointCount": 10
         },
+        "189": {
+          "avgLiquidity": 921137.4945454546,
+          "avgVolume": 4160.351381333332,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
         "190": {
-          "avgLiquidity": 949992.315,
-          "avgVolume": 488.92379214285745,
-          "liqPointCount": 2,
-          "volPointCount": 1
+          "avgLiquidity": 965744.73,
+          "avgVolume": 890.654883047619,
+          "liqPointCount": 3,
+          "volPointCount": 2
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 949992.315,
-      "spotLiquidity": 949992.315,
+      "latestLiquidity": 965744.73,
+      "spotLiquidity": 965744.73,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -98,25 +92,25 @@
       "poolContract": "terra1v3lqxl0eyte9x3nhdgcj8hwvjq76aupnnzz0yll8mxs5cckc29pqvg2scu",
       "lpAddress": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx",
       "poolType": "concentrated",
-      "astroportTvlUsd": 389574,
-      "astroportDayVolumeUsd": 43474.3,
-      "astroportStakedLiquidityUsd": 313779,
-      "astroportLpTotalSupply": "785585164217",
-      "astroportDayFeesUsd": 30.7697,
-      "astroportFeeApr": 0.028828773224085794,
+      "astroportTvlUsd": 393014,
+      "astroportDayVolumeUsd": 44636.9,
+      "astroportStakedLiquidityUsd": 316321,
+      "astroportLpTotalSupply": "784131254718",
+      "astroportDayFeesUsd": 27.8125,
+      "astroportFeeApr": 0.02583002768349219,
       "astroportAssets": [
         {
           "symbol": "LUNA",
           "denom": "uluna",
-          "amount": "3621672940874",
-          "price_usd": 0.05341,
+          "amount": "3575355618398",
+          "price_usd": 0.054361,
           "precision": 6
         },
         {
           "symbol": "USDC",
           "denom": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
-          "amount": "196895750688",
-          "price_usd": 0.999799,
+          "amount": "198696709177",
+          "price_usd": 0.999785,
           "precision": 6
         }
       ],
@@ -124,46 +118,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 710327.76,
-          "avgVolume": 2176.3233402380974,
-          "liqPointCount": 1,
-          "volPointCount": 1
-        },
         "186": {
-          "avgLiquidity": 692053.878181818,
-          "avgVolume": 5725.82979490476,
-          "liqPointCount": 11,
-          "volPointCount": 11
+          "avgLiquidity": 694594.663,
+          "avgVolume": 5216.7883181190455,
+          "liqPointCount": 10,
+          "volPointCount": 10
         },
         "187": {
-          "avgLiquidity": 679405.7769999999,
-          "avgVolume": 6846.5794211428565,
-          "liqPointCount": 10,
-          "volPointCount": 10
-        },
-        "188": {
-          "avgLiquidity": 537330.3581818182,
-          "avgVolume": 13135.37670714286,
+          "avgLiquidity": 681207.1181818182,
+          "avgVolume": 7404.691965666666,
           "liqPointCount": 11,
           "volPointCount": 11
         },
-        "189": {
-          "avgLiquidity": 416038.341,
-          "avgVolume": 5262.615183642855,
+        "188": {
+          "avgLiquidity": 542715.142,
+          "avgVolume": 12325.976606761904,
           "liqPointCount": 10,
           "volPointCount": 10
         },
+        "189": {
+          "avgLiquidity": 415133.23363636364,
+          "avgVolume": 6031.514647857141,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
         "190": {
-          "avgLiquidity": 391348.38,
-          "avgVolume": 887.114853404762,
-          "liqPointCount": 2,
-          "volPointCount": 1
+          "avgLiquidity": 391938.9166666667,
+          "avgVolume": 1178.8217985952385,
+          "liqPointCount": 3,
+          "volPointCount": 2
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 391348.38,
-      "spotLiquidity": 391348.38,
+      "latestLiquidity": 391938.9166666667,
+      "spotLiquidity": 391938.9166666667,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -176,24 +164,24 @@
       "poolContract": "terra1ys7edvw89krf47n4zsz4c4m9das7ppltjtfv2epw85thqpvl6hhqn55m6y",
       "lpAddress": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn",
       "poolType": "concentrated",
-      "astroportTvlUsd": 342656,
-      "astroportDayVolumeUsd": 13880.4,
-      "astroportStakedLiquidityUsd": 312194,
-      "astroportLpTotalSupply": "156701965975",
-      "astroportDayFeesUsd": 20.0569,
-      "astroportFeeApr": 0.021364775459936494,
+      "astroportTvlUsd": 343000,
+      "astroportDayVolumeUsd": 4265.13,
+      "astroportStakedLiquidityUsd": 312452,
+      "astroportLpTotalSupply": "156856854488",
+      "astroportDayFeesUsd": 6.31816,
+      "astroportFeeApr": 0.006723406413994167,
       "astroportAssets": [
         {
           "symbol": "USDC",
           "denom": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
-          "amount": "170107476922",
-          "price_usd": 0.999799,
+          "amount": "170509744692",
+          "price_usd": 0.999785,
           "precision": 6
         },
         {
           "symbol": "EURe",
           "denom": "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1",
-          "amount": "148776024204",
+          "amount": "148726804349",
           "price_usd": 1.16,
           "precision": 6
         }
@@ -202,46 +190,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 273697.99,
-          "avgVolume": 92.68862126190474,
-          "liqPointCount": 1,
-          "volPointCount": 1
-        },
         "186": {
-          "avgLiquidity": 323668.09545454546,
-          "avgVolume": 417.30973128571435,
-          "liqPointCount": 11,
-          "volPointCount": 11
+          "avgLiquidity": 324699.252,
+          "avgVolume": 402.40089247619056,
+          "liqPointCount": 10,
+          "volPointCount": 10
         },
         "187": {
-          "avgLiquidity": 340844.67000000004,
-          "avgVolume": 494.18577142857146,
-          "liqPointCount": 10,
-          "volPointCount": 10
-        },
-        "188": {
-          "avgLiquidity": 350648.4163636364,
-          "avgVolume": 1697.4342247619043,
+          "avgLiquidity": 340651.4854545455,
+          "avgVolume": 500.3785542857144,
           "liqPointCount": 11,
           "volPointCount": 11
         },
-        "189": {
-          "avgLiquidity": 351490.69899999996,
-          "avgVolume": 519.0178562142858,
+        "188": {
+          "avgLiquidity": 350084.119,
+          "avgVolume": 1651.9061252380945,
           "liqPointCount": 10,
           "volPointCount": 10
         },
+        "189": {
+          "avgLiquidity": 351532.16636363644,
+          "avgVolume": 602.8931438333334,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
         "190": {
-          "avgLiquidity": 348051.85,
-          "avgVolume": 218.2940652380952,
-          "liqPointCount": 2,
-          "volPointCount": 1
+          "avgLiquidity": 342776.51666666666,
+          "avgVolume": 337.2775876190476,
+          "liqPointCount": 3,
+          "volPointCount": 2
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 348051.85,
-      "spotLiquidity": 348051.85,
+      "latestLiquidity": 342776.51666666666,
+      "spotLiquidity": 342776.51666666666,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -254,25 +236,25 @@
       "poolContract": "terra1dnssvse0fqw4d4gqc8kvchfud5r6e8cr7w9cdpervhl2pgr2eecquujpg6",
       "lpAddress": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry",
       "poolType": "stable",
-      "astroportTvlUsd": 210649,
-      "astroportDayVolumeUsd": 17301.3,
-      "astroportStakedLiquidityUsd": 163629,
-      "astroportLpTotalSupply": "105004468868",
-      "astroportDayFeesUsd": 4.32651,
-      "astroportFeeApr": 0.0074967180000854484,
+      "astroportTvlUsd": 210691,
+      "astroportDayVolumeUsd": 6047.74,
+      "astroportStakedLiquidityUsd": 163634,
+      "astroportLpTotalSupply": "105042453720",
+      "astroportDayFeesUsd": 1.51081,
+      "astroportFeeApr": 0.002617319439368553,
       "astroportAssets": [
         {
           "symbol": "USDC",
           "denom": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
-          "amount": "99338361366",
-          "price_usd": 0.999799,
+          "amount": "94567272759",
+          "price_usd": 0.999785,
           "precision": 6
         },
         {
           "symbol": "USDT",
           "denom": "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5",
-          "amount": "111397285779",
-          "price_usd": 0.9994,
+          "amount": "116253857741",
+          "price_usd": 0.999063,
           "precision": 6
         }
       ],
@@ -280,46 +262,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 312136.49,
-          "avgVolume": 24.09896785714286,
-          "liqPointCount": 1,
-          "volPointCount": 1
-        },
         "186": {
-          "avgLiquidity": 231442.76727272721,
-          "avgVolume": 1550.306772452381,
-          "liqPointCount": 11,
-          "volPointCount": 11
+          "avgLiquidity": 231445.08399999997,
+          "avgVolume": 1184.9037245952381,
+          "liqPointCount": 10,
+          "volPointCount": 10
         },
         "187": {
-          "avgLiquidity": 231841.86200000002,
-          "avgVolume": 665.5770805238096,
-          "liqPointCount": 10,
-          "volPointCount": 10
-        },
-        "188": {
-          "avgLiquidity": 224030.55545454548,
-          "avgVolume": 857.7110200476191,
+          "avgLiquidity": 231843.16636363638,
+          "avgVolume": 1028.7912498095236,
           "liqPointCount": 11,
           "volPointCount": 11
         },
-        "189": {
-          "avgLiquidity": 210362.981,
-          "avgVolume": 69.29985326190479,
+        "188": {
+          "avgLiquidity": 223326.47600000002,
+          "avgVolume": 848.6858031428574,
           "liqPointCount": 10,
           "volPointCount": 10
         },
+        "189": {
+          "avgLiquidity": 210364.86545454545,
+          "avgVolume": 307.18064230952376,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
         "190": {
-          "avgLiquidity": 210622.21000000002,
-          "avgVolume": 638.1944759285715,
-          "liqPointCount": 2,
-          "volPointCount": 1
+          "avgLiquidity": 210666.92,
+          "avgVolume": 413.0358885476194,
+          "liqPointCount": 3,
+          "volPointCount": 2
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 210622.21000000002,
-      "spotLiquidity": 210622.21000000002,
+      "latestLiquidity": 210666.92,
+      "spotLiquidity": 210666.92,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -332,25 +308,25 @@
       "poolContract": "terra1g55qjcptzqgdyqfgzu5mj8x82955rvlxy4c37z5t6ldgz7cz033q0xr2lx",
       "lpAddress": "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr",
       "poolType": "concentrated",
-      "astroportTvlUsd": 159933,
-      "astroportDayVolumeUsd": 403.648,
-      "astroportStakedLiquidityUsd": 75812.5,
-      "astroportLpTotalSupply": "4739157",
-      "astroportDayFeesUsd": 0.371092,
-      "astroportFeeApr": 0.0008469082678371537,
+      "astroportTvlUsd": 159842,
+      "astroportDayVolumeUsd": 417.272,
+      "astroportStakedLiquidityUsd": 75794.5,
+      "astroportLpTotalSupply": "4741733",
+      "astroportDayFeesUsd": 0.386667,
+      "astroportFeeApr": 0.0008829560128126515,
       "astroportAssets": [
         {
           "symbol": "PAXG",
           "denom": "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62",
-          "amount": "18313004909714627000",
-          "price_usd": 4306.05,
+          "amount": "18259121307443016000",
+          "price_usd": 4322.33,
           "precision": 18
         },
         {
           "symbol": "WBTC",
           "denom": "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB",
-          "amount": "122811502",
-          "price_usd": 66132,
+          "amount": "123301090",
+          "price_usd": 65494,
           "precision": 8
         }
       ],
@@ -358,46 +334,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 78685.97,
-          "avgVolume": 76.0998423809524,
-          "liqPointCount": 1,
-          "volPointCount": 1
-        },
         "186": {
-          "avgLiquidity": 104746.46181818182,
-          "avgVolume": 131.43790785714287,
-          "liqPointCount": 11,
-          "volPointCount": 11
+          "avgLiquidity": 104961.755,
+          "avgVolume": 121.9107827857143,
+          "liqPointCount": 10,
+          "volPointCount": 10
         },
         "187": {
-          "avgLiquidity": 107748.652,
-          "avgVolume": 267.87035299999997,
-          "liqPointCount": 10,
-          "volPointCount": 10
-        },
-        "188": {
-          "avgLiquidity": 98857.66818181817,
-          "avgVolume": 357.6147688095238,
+          "avgLiquidity": 107972.65909090909,
+          "avgVolume": 283.7650742619048,
           "liqPointCount": 11,
           "volPointCount": 11
         },
-        "189": {
-          "avgLiquidity": 164487.038,
-          "avgVolume": 245.4777316666666,
+        "188": {
+          "avgLiquidity": 99995.406,
+          "avgVolume": 344.0073835714286,
           "liqPointCount": 10,
           "volPointCount": 10
         },
+        "189": {
+          "avgLiquidity": 164512.31272727277,
+          "avgVolume": 249.00329547619046,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
         "190": {
-          "avgLiquidity": 164378.285,
-          "avgVolume": 8.557917857142858,
-          "liqPointCount": 2,
-          "volPointCount": 1
+          "avgLiquidity": 160421.08666666667,
+          "avgVolume": 9.610655238095235,
+          "liqPointCount": 3,
+          "volPointCount": 2
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 164378.285,
-      "spotLiquidity": 164378.285,
+      "latestLiquidity": 160421.08666666667,
+      "spotLiquidity": 160421.08666666667,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -410,24 +380,24 @@
       "poolContract": "terra1vhxl8ggscmhae3muvwvs2vs8ppprzqf07xngcdp798fwnrcksjxszqfa8n",
       "lpAddress": "terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc",
       "poolType": "concentrated",
-      "astroportTvlUsd": 129529,
-      "astroportDayVolumeUsd": 5894.47,
-      "astroportStakedLiquidityUsd": 122588,
-      "astroportLpTotalSupply": "256328098307",
-      "astroportDayFeesUsd": 5.76904,
-      "astroportFeeApr": 0.01625658809996217,
+      "astroportTvlUsd": 132277,
+      "astroportDayVolumeUsd": 3326.78,
+      "astroportStakedLiquidityUsd": 125211,
+      "astroportLpTotalSupply": "258369212335",
+      "astroportDayFeesUsd": 3.11753,
+      "astroportFeeApr": 0.008602390816241671,
       "astroportAssets": [
         {
           "symbol": "LUNA",
           "denom": "uluna",
-          "amount": "1221803084739",
-          "price_usd": 0.05341,
+          "amount": "1220602153994",
+          "price_usd": 0.054361,
           "precision": 6
         },
         {
           "symbol": "EURe",
           "denom": "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1",
-          "amount": "55558045518",
+          "amount": "56513070802",
           "price_usd": 1.16,
           "precision": 6
         }
@@ -436,46 +406,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 48591.57,
-          "avgVolume": 47.02705904761904,
-          "liqPointCount": 1,
-          "volPointCount": 1
-        },
         "186": {
-          "avgLiquidity": 46393.11818181819,
-          "avgVolume": 98.62681426190477,
-          "liqPointCount": 11,
-          "volPointCount": 11
+          "avgLiquidity": 46437.05199999999,
+          "avgVolume": 87.09136164285714,
+          "liqPointCount": 10,
+          "volPointCount": 10
         },
         "187": {
-          "avgLiquidity": 45697.17,
-          "avgVolume": 125.05292366666667,
-          "liqPointCount": 10,
-          "volPointCount": 10
-        },
-        "188": {
-          "avgLiquidity": 92324.84363636364,
-          "avgVolume": 813.2322728333335,
+          "avgLiquidity": 45740.53727272728,
+          "avgVolume": 131.85606723809525,
           "liqPointCount": 11,
           "volPointCount": 11
         },
-        "189": {
-          "avgLiquidity": 102514.29199999999,
-          "avgVolume": 242.05456619047618,
+        "188": {
+          "avgLiquidity": 93884.16699999999,
+          "avgVolume": 765.4439328333332,
           "liqPointCount": 10,
           "volPointCount": 10
         },
+        "189": {
+          "avgLiquidity": 102318.72000000002,
+          "avgVolume": 303.18236238095244,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
         "190": {
-          "avgLiquidity": 124371.185,
-          "avgVolume": 122.31254359523807,
-          "liqPointCount": 2,
-          "volPointCount": 1
+          "avgLiquidity": 130905.54666666668,
+          "avgVolume": 147.31942526190474,
+          "liqPointCount": 3,
+          "volPointCount": 2
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 124371.185,
-      "spotLiquidity": 124371.185,
+      "latestLiquidity": 130905.54666666668,
+      "spotLiquidity": 130905.54666666668,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -488,25 +452,25 @@
       "poolContract": "terra1mea829xtsnxwv4l9lhzs0tzpnyamjpz5y45a9tpp06jgdhjd48yqc4ales",
       "lpAddress": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js",
       "poolType": "concentrated",
-      "astroportTvlUsd": 81839.9,
-      "astroportDayVolumeUsd": 2376.62,
-      "astroportStakedLiquidityUsd": 76057.5,
-      "astroportLpTotalSupply": "684262607",
-      "astroportDayFeesUsd": 1.68123,
-      "astroportFeeApr": 0.0074981634874920385,
+      "astroportTvlUsd": 82703.9,
+      "astroportDayVolumeUsd": 3629.65,
+      "astroportStakedLiquidityUsd": 76843.4,
+      "astroportLpTotalSupply": "684873066",
+      "astroportDayFeesUsd": 2.25522,
+      "astroportFeeApr": 0.009953040908590767,
       "astroportAssets": [
         {
           "symbol": "LUNA",
           "denom": "uluna",
-          "amount": "776675236856",
-          "price_usd": 0.05341,
+          "amount": "749002802610",
+          "price_usd": 0.054361,
           "precision": 6
         },
         {
           "symbol": "WBTC",
           "denom": "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB",
-          "amount": "61253223",
-          "price_usd": 66132,
+          "amount": "63640861",
+          "price_usd": 65494,
           "precision": 8
         }
       ],
@@ -514,46 +478,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 132307.93,
-          "avgVolume": 219.7837878571428,
-          "liqPointCount": 1,
-          "volPointCount": 1
-        },
         "186": {
-          "avgLiquidity": 131788.18363636362,
-          "avgVolume": 395.9349153809523,
-          "liqPointCount": 11,
-          "volPointCount": 11
+          "avgLiquidity": 132731.942,
+          "avgVolume": 350.0685189523809,
+          "liqPointCount": 10,
+          "volPointCount": 10
         },
         "187": {
-          "avgLiquidity": 132543.713,
-          "avgVolume": 557.1219498571428,
-          "liqPointCount": 10,
-          "volPointCount": 10
-        },
-        "188": {
-          "avgLiquidity": 109300.5709090909,
-          "avgVolume": 1200.0281231904764,
+          "avgLiquidity": 132839.68545454543,
+          "avgVolume": 599.0531980714287,
           "liqPointCount": 11,
           "volPointCount": 11
         },
-        "189": {
-          "avgLiquidity": 91879.001,
-          "avgVolume": 516.8051738095239,
+        "188": {
+          "avgLiquidity": 109402.99900000003,
+          "avgVolume": 1156.7502412857143,
           "liqPointCount": 10,
           "volPointCount": 10
         },
+        "189": {
+          "avgLiquidity": 91596.20181818181,
+          "avgVolume": 557.9604636428571,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
         "190": {
-          "avgLiquidity": 83501.745,
-          "avgVolume": 32.87190780952381,
-          "liqPointCount": 2,
-          "volPointCount": 1
+          "avgLiquidity": 82270.37999999999,
+          "avgVolume": 56.659378071428556,
+          "liqPointCount": 3,
+          "volPointCount": 2
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 83501.745,
-      "spotLiquidity": 83501.745,
+      "latestLiquidity": 82270.37999999999,
+      "spotLiquidity": 82270.37999999999,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -566,25 +524,25 @@
       "poolContract": "terra1fwjxdjpl98shj20l4swlen9hyu4lhvekrvqkqn393lzzghmsn2wqjdnvpu",
       "lpAddress": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk",
       "poolType": "xyk",
-      "astroportTvlUsd": 78765.4,
-      "astroportDayVolumeUsd": 3078.31,
-      "astroportStakedLiquidityUsd": 65723.9,
-      "astroportLpTotalSupply": "34681768618",
-      "astroportDayFeesUsd": 6.06829,
-      "astroportFeeApr": 0.028120543411193237,
+      "astroportTvlUsd": 78941.3,
+      "astroportDayVolumeUsd": 252.142,
+      "astroportStakedLiquidityUsd": 65862.1,
+      "astroportLpTotalSupply": "34707237904",
+      "astroportDayFeesUsd": 0.504431,
+      "astroportFeeApr": 0.0023323319352480886,
       "astroportAssets": [
         {
           "symbol": "USDC",
           "denom": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
-          "amount": "39411000322",
-          "price_usd": 0.999799,
+          "amount": "39495120303",
+          "price_usd": 0.999785,
           "precision": 6
         },
         {
           "symbol": "SOLID",
           "denom": "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst",
-          "amount": "39560298478",
-          "price_usd": 0.9952484268460595,
+          "amount": "39534546559",
+          "price_usd": 0.997279096911713,
           "precision": 6
         }
       ],
@@ -592,46 +550,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 118252.75,
-          "avgVolume": 12.869287380952377,
-          "liqPointCount": 1,
-          "volPointCount": 1
-        },
         "186": {
-          "avgLiquidity": 118744.3390909091,
-          "avgVolume": 95.50347461904762,
-          "liqPointCount": 11,
-          "volPointCount": 11
+          "avgLiquidity": 118411.871,
+          "avgVolume": 91.65182435714286,
+          "liqPointCount": 10,
+          "volPointCount": 10
         },
         "187": {
-          "avgLiquidity": 129350.607,
-          "avgVolume": 127.63669852380956,
-          "liqPointCount": 10,
-          "volPointCount": 10
-        },
-        "188": {
-          "avgLiquidity": 106731.36454545455,
-          "avgVolume": 218.69579549999995,
+          "avgLiquidity": 128641.14727272726,
+          "avgVolume": 129.11769802380954,
           "liqPointCount": 11,
           "volPointCount": 11
         },
-        "189": {
-          "avgLiquidity": 81590.23900000002,
-          "avgVolume": 43.97728097619047,
+        "188": {
+          "avgLiquidity": 107982.67,
+          "avgVolume": 214.77206516666666,
           "liqPointCount": 10,
           "volPointCount": 10
         },
+        "189": {
+          "avgLiquidity": 81694.83727272727,
+          "avgVolume": 49.06483590476191,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
         "190": {
-          "avgLiquidity": 78115.48999999999,
-          "avgVolume": 63.659750547619055,
-          "liqPointCount": 2,
-          "volPointCount": 1
+          "avgLiquidity": 78836.98000000001,
+          "avgVolume": 74.16983645238095,
+          "liqPointCount": 3,
+          "volPointCount": 2
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 78115.48999999999,
-      "spotLiquidity": 78115.48999999999,
+      "latestLiquidity": 78836.98000000001,
+      "spotLiquidity": 78836.98000000001,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -644,25 +596,25 @@
       "poolContract": "terra183wqgrwa2k0uvlz99j57c496gfuwgtaccrhv4stcjzv3ydacl9zq0hmf25",
       "lpAddress": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564",
       "poolType": "concentrated",
-      "astroportTvlUsd": 54891.8,
-      "astroportDayVolumeUsd": 1509.74,
-      "astroportStakedLiquidityUsd": 50755.1,
-      "astroportLpTotalSupply": "3430862908742",
-      "astroportDayFeesUsd": 1.47501,
-      "astroportFeeApr": 0.009807997733723432,
+      "astroportTvlUsd": 57458,
+      "astroportDayVolumeUsd": 101.45,
+      "astroportStakedLiquidityUsd": 53116,
+      "astroportLpTotalSupply": "3433007346638",
+      "astroportDayFeesUsd": 0.100706,
+      "astroportFeeApr": 0.0006397314560200475,
       "astroportAssets": [
         {
           "symbol": "CAPA",
           "denom": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
-          "amount": "23406192348683",
-          "price_usd": 0.001170740325726743,
+          "amount": "23394588722779",
+          "price_usd": 0.001193131216400851,
           "precision": 6
         },
         {
           "symbol": "LUNA",
           "denom": "uluna",
-          "amount": "517442586570",
-          "price_usd": 0.05341,
+          "amount": "518343954251",
+          "price_usd": 0.054361,
           "precision": 6
         }
       ],
@@ -670,46 +622,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 77843.2,
-          "avgVolume": 2.43740669047619,
-          "liqPointCount": 1,
-          "volPointCount": 1
-        },
         "186": {
-          "avgLiquidity": 74347.03545454546,
-          "avgVolume": 54.936798714285715,
-          "liqPointCount": 11,
-          "volPointCount": 11
+          "avgLiquidity": 74534.93699999999,
+          "avgVolume": 54.148929666666675,
+          "liqPointCount": 10,
+          "volPointCount": 10
         },
         "187": {
-          "avgLiquidity": 75146.81500000002,
-          "avgVolume": 46.500461071428575,
-          "liqPointCount": 10,
-          "volPointCount": 10
-        },
-        "188": {
-          "avgLiquidity": 63892.94727272727,
-          "avgVolume": 112.13469414285716,
+          "avgLiquidity": 72905.82090909091,
+          "avgVolume": 47.48007261904762,
           "liqPointCount": 11,
           "volPointCount": 11
         },
-        "189": {
-          "avgLiquidity": 56925.311,
-          "avgVolume": 43.48509642857144,
+        "188": {
+          "avgLiquidity": 63615.353,
+          "avgVolume": 111.18486854761906,
           "liqPointCount": 10,
           "volPointCount": 10
         },
+        "189": {
+          "avgLiquidity": 57099.844545454536,
+          "avgVolume": 44.37283723809523,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
         "190": {
-          "avgLiquidity": 55625.945,
-          "avgVolume": 8.896749571428572,
-          "liqPointCount": 2,
-          "volPointCount": 1
+          "avgLiquidity": 56097.90666666667,
+          "avgVolume": 36.700455238095245,
+          "liqPointCount": 3,
+          "volPointCount": 2
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 55625.945,
-      "spotLiquidity": 55625.945,
+      "latestLiquidity": 56097.90666666667,
+      "spotLiquidity": 56097.90666666667,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -722,25 +668,25 @@
       "poolContract": "terra10yfnsqn20rzlnlzkeva5255q27zp6ws9te9uuql9e0lacfcze7zsffjct5",
       "lpAddress": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44",
       "poolType": "concentrated",
-      "astroportTvlUsd": 54789,
-      "astroportDayVolumeUsd": 62.0367,
-      "astroportStakedLiquidityUsd": 44303.7,
-      "astroportLpTotalSupply": "2144327989097",
-      "astroportDayFeesUsd": 0.048552,
-      "astroportFeeApr": 0.00032344959754695074,
+      "astroportTvlUsd": 57368.3,
+      "astroportDayVolumeUsd": 13.0714,
+      "astroportStakedLiquidityUsd": 46383.7,
+      "astroportLpTotalSupply": "2145697749075",
+      "astroportDayFeesUsd": 0.010348,
+      "astroportFeeApr": 0.0000658381022271849,
       "astroportAssets": [
         {
           "symbol": "FUEL",
           "denom": "ibc/4B44179AC2F0BEE50C16A673B3B886398988692885B2848A1C8AEF27148B3961",
-          "amount": "9056728032300",
-          "price_usd": 0.003065136326278769,
+          "amount": "9063602114799",
+          "price_usd": 0.003125590941515713,
           "precision": 6
         },
         {
           "symbol": "LUNA",
           "denom": "uluna",
-          "amount": "508818252791",
-          "price_usd": 0.05341,
+          "amount": "509081452797",
+          "price_usd": 0.054361,
           "precision": 6
         }
       ],
@@ -748,46 +694,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 64700.38,
-          "avgVolume": 0,
-          "liqPointCount": 1,
-          "volPointCount": 0
-        },
         "186": {
-          "avgLiquidity": 61134.57545454545,
+          "avgLiquidity": 61461.663000000015,
           "avgVolume": 2.656096142857143,
-          "liqPointCount": 11,
+          "liqPointCount": 10,
           "volPointCount": 6
         },
         "187": {
-          "avgLiquidity": 59783.00199999999,
-          "avgVolume": 3.2315380952380957,
-          "liqPointCount": 10,
-          "volPointCount": 3
+          "avgLiquidity": 59980.27545454546,
+          "avgVolume": 3.2315380952380943,
+          "liqPointCount": 11,
+          "volPointCount": 4
         },
         "188": {
-          "avgLiquidity": 54715.39363636363,
-          "avgVolume": 5.1395099761904754,
-          "liqPointCount": 11,
-          "volPointCount": 7
+          "avgLiquidity": 54653.02,
+          "avgVolume": 5.138508833333333,
+          "liqPointCount": 10,
+          "volPointCount": 6
         },
         "189": {
-          "avgLiquidity": 52938.778000000006,
-          "avgVolume": 14.663125714285716,
-          "liqPointCount": 10,
+          "avgLiquidity": 52971.43000000001,
+          "avgVolume": 14.66412685714286,
+          "liqPointCount": 11,
           "volPointCount": 3
         },
         "190": {
-          "avgLiquidity": 54828.19,
-          "avgVolume": 1.4231909761904762,
-          "liqPointCount": 2,
-          "volPointCount": 1
+          "avgLiquidity": 55967.81,
+          "avgVolume": 1.7882895238095238,
+          "liqPointCount": 3,
+          "volPointCount": 2
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 54828.19,
-      "spotLiquidity": 54828.19,
+      "latestLiquidity": 55967.81,
+      "spotLiquidity": 55967.81,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -800,25 +740,25 @@
       "poolContract": "terra10m23jmgtx0lvc6v5gffdmcutlmrgy9pnf8wun4mxft2xd3dnqdvsv392j5",
       "lpAddress": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl",
       "poolType": "xyk",
-      "astroportTvlUsd": 48772.1,
-      "astroportDayVolumeUsd": 1776.83,
-      "astroportStakedLiquidityUsd": 46757.7,
-      "astroportLpTotalSupply": "43103137333421700",
-      "astroportDayFeesUsd": 3.57162,
-      "astroportFeeApr": 0.026729242743289708,
+      "astroportTvlUsd": 50243.4,
+      "astroportDayVolumeUsd": 3590.53,
+      "astroportStakedLiquidityUsd": 48156.1,
+      "astroportLpTotalSupply": "43109823101042630",
+      "astroportDayFeesUsd": 7.21905,
+      "astroportFeeApr": 0.05244376873380384,
       "astroportAssets": [
         {
           "symbol": "LUNA",
           "denom": "uluna",
-          "amount": "459615681061",
-          "price_usd": 0.05341,
+          "amount": "453504929463",
+          "price_usd": 0.054361,
           "precision": 6
         },
         {
           "symbol": "INJ",
           "denom": "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211",
-          "amount": "4.4083079365472394e+21",
-          "price_usd": 5.52,
+          "amount": "4.470393604043903e+21",
+          "price_usd": 5.55,
           "precision": 18
         }
       ],
@@ -826,46 +766,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 67629.7,
-          "avgVolume": 60.92828621428572,
-          "liqPointCount": 1,
-          "volPointCount": 1
-        },
         "186": {
-          "avgLiquidity": 65362.66454545455,
-          "avgVolume": 548.5190342380952,
-          "liqPointCount": 11,
-          "volPointCount": 11
+          "avgLiquidity": 65369.227,
+          "avgVolume": 532.0794835476191,
+          "liqPointCount": 10,
+          "volPointCount": 10
         },
         "187": {
-          "avgLiquidity": 70547.097,
-          "avgVolume": 746.6034007142857,
-          "liqPointCount": 10,
-          "volPointCount": 10
-        },
-        "188": {
-          "avgLiquidity": 56599.80454545454,
-          "avgVolume": 655.1714430714286,
+          "avgLiquidity": 70467.87363636364,
+          "avgVolume": 792.7347633095238,
           "liqPointCount": 11,
           "volPointCount": 11
         },
-        "189": {
-          "avgLiquidity": 44921.551999999996,
-          "avgVolume": 281.99101666666667,
+        "188": {
+          "avgLiquidity": 55077.466,
+          "avgVolume": 602.2896028333333,
           "liqPointCount": 10,
           "volPointCount": 10
         },
+        "189": {
+          "avgLiquidity": 44944.148181818186,
+          "avgVolume": 310.8309260476191,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
         "190": {
-          "avgLiquidity": 45008.405,
-          "avgVolume": 16.684321142857144,
-          "liqPointCount": 2,
-          "volPointCount": 1
+          "avgLiquidity": 49817.5,
+          "avgVolume": 75.20525323809522,
+          "liqPointCount": 3,
+          "volPointCount": 2
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 45008.405,
-      "spotLiquidity": 45008.405,
+      "latestLiquidity": 49817.5,
+      "spotLiquidity": 49817.5,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -878,25 +812,25 @@
       "poolContract": "terra1j3d29y506cvtavdpakdzl6e0g2xcskvmmulsetcd0jfwrpr8eu9qfe0dmf",
       "lpAddress": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt",
       "poolType": "xyk",
-      "astroportTvlUsd": 39882.1,
-      "astroportDayVolumeUsd": 556.621,
-      "astroportStakedLiquidityUsd": 35321.9,
-      "astroportLpTotalSupply": "53909506723",
-      "astroportDayFeesUsd": 1.11787,
-      "astroportFeeApr": 0.010230718793644265,
+      "astroportTvlUsd": 40868,
+      "astroportDayVolumeUsd": 1808.49,
+      "astroportStakedLiquidityUsd": 36190.1,
+      "astroportLpTotalSupply": "53973565746",
+      "astroportDayFeesUsd": 3.62718,
+      "astroportFeeApr": 0.03239504502300088,
       "astroportAssets": [
         {
           "symbol": "ATOM",
           "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-          "amount": "10240540407",
-          "price_usd": 1.96,
+          "amount": "10262098459",
+          "price_usd": 1.99,
           "precision": 6
         },
         {
           "symbol": "LUNA",
           "denom": "uluna",
-          "amount": "373834799113",
-          "price_usd": 0.05341,
+          "amount": "374004246702",
+          "price_usd": 0.054361,
           "precision": 6
         }
       ],
@@ -904,46 +838,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 26211.32,
-          "avgVolume": 29.308956285714284,
-          "liqPointCount": 1,
-          "volPointCount": 1
-        },
         "186": {
-          "avgLiquidity": 28069.46727272727,
-          "avgVolume": 142.5599488809524,
-          "liqPointCount": 11,
-          "volPointCount": 11
+          "avgLiquidity": 28100.689000000002,
+          "avgVolume": 131.1646529761905,
+          "liqPointCount": 10,
+          "volPointCount": 10
         },
         "187": {
-          "avgLiquidity": 26594.484000000004,
-          "avgVolume": 198.2950430238095,
-          "liqPointCount": 10,
-          "volPointCount": 10
-        },
-        "188": {
-          "avgLiquidity": 22227.40363636364,
-          "avgVolume": 128.49431619047618,
+          "avgLiquidity": 26528.5,
+          "avgVolume": 205.40699107142856,
           "liqPointCount": 11,
           "volPointCount": 11
         },
-        "189": {
-          "avgLiquidity": 20929.203,
-          "avgVolume": 140.1552891428571,
+        "188": {
+          "avgLiquidity": 22119.605000000003,
+          "avgVolume": 120.17899997619045,
           "liqPointCount": 10,
           "volPointCount": 10
         },
+        "189": {
+          "avgLiquidity": 20866.241818181818,
+          "avgVolume": 156.09442326190475,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
         "190": {
-          "avgLiquidity": 36643.14,
-          "avgVolume": 16.359687571428573,
-          "liqPointCount": 2,
-          "volPointCount": 1
+          "avgLiquidity": 40514.51,
+          "avgVolume": 27.184107190476187,
+          "liqPointCount": 3,
+          "volPointCount": 2
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 36643.14,
-      "spotLiquidity": 36643.14,
+      "latestLiquidity": 40514.51,
+      "spotLiquidity": 40514.51,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -956,25 +884,25 @@
       "poolContract": "terra189v2ewgfx5wdhje6geefdtxefeemujplk8qw2wx3x5hdswn95l8qf4n2r0",
       "lpAddress": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm",
       "poolType": "concentrated",
-      "astroportTvlUsd": 32889,
-      "astroportDayVolumeUsd": 67.1792,
-      "astroportStakedLiquidityUsd": 28727.3,
-      "astroportLpTotalSupply": "147272540817947",
-      "astroportDayFeesUsd": 0.067372,
-      "astroportFeeApr": 0.0007476901091550358,
+      "astroportTvlUsd": 34332.6,
+      "astroportDayVolumeUsd": 49.4653,
+      "astroportStakedLiquidityUsd": 29985.6,
+      "astroportLpTotalSupply": "147457325130363",
+      "astroportDayFeesUsd": 0.049394,
+      "astroportFeeApr": 0.0005251221870758392,
       "astroportAssets": [
         {
           "symbol": "ROAR",
           "denom": "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv",
-          "amount": "73278757044285940",
-          "price_usd": 2.2239243418e-7,
+          "amount": "73405705392306930",
+          "price_usd": 2.26370288299e-7,
           "precision": 6
         },
         {
           "symbol": "LUNA",
           "denom": "uluna",
-          "amount": "312317841017",
-          "price_usd": 0.05341,
+          "amount": "312563676404",
+          "price_usd": 0.054361,
           "precision": 6
         }
       ],
@@ -982,46 +910,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 39373.36,
-          "avgVolume": 4.199224166666666,
-          "liqPointCount": 1,
-          "volPointCount": 1
-        },
         "186": {
-          "avgLiquidity": 40341.94454545455,
-          "avgVolume": 14.945179571428568,
-          "liqPointCount": 11,
-          "volPointCount": 11
+          "avgLiquidity": 37357.01099999999,
+          "avgVolume": 14.72876780952381,
+          "liqPointCount": 10,
+          "volPointCount": 10
         },
         "187": {
-          "avgLiquidity": 36380.51900000001,
-          "avgVolume": 22.094480761904766,
-          "liqPointCount": 10,
-          "volPointCount": 10
-        },
-        "188": {
-          "avgLiquidity": 32925.689090909094,
-          "avgVolume": 25.481606880952377,
+          "avgLiquidity": 36480.280000000006,
+          "avgVolume": 22.57159216666667,
           "liqPointCount": 11,
           "volPointCount": 11
         },
-        "189": {
-          "avgLiquidity": 31816.811999999998,
-          "avgVolume": 14.24460319047619,
+        "188": {
+          "avgLiquidity": 32732.83400000001,
+          "avgVolume": 20.464635333333334,
           "liqPointCount": 10,
           "volPointCount": 10
         },
+        "189": {
+          "avgLiquidity": 31724.261818181818,
+          "avgVolume": 18.909574499999998,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
         "190": {
-          "avgLiquidity": 32953.215,
-          "avgVolume": 1.438209619047619,
-          "liqPointCount": 2,
-          "volPointCount": 1
+          "avgLiquidity": 33481.256666666675,
+          "avgVolume": 1.7209044047619049,
+          "liqPointCount": 3,
+          "volPointCount": 2
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 32953.215,
-      "spotLiquidity": 32953.215,
+      "latestLiquidity": 33481.256666666675,
+      "spotLiquidity": 33481.256666666675,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -1034,25 +956,25 @@
       "poolContract": "terra1xgdyzzhs2v2ne3us2kyj5ry47fwc7uk44k035dyyygq42xechwwqlddmcr",
       "lpAddress": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc",
       "poolType": "concentrated",
-      "astroportTvlUsd": 31584,
-      "astroportDayVolumeUsd": 320.816,
-      "astroportStakedLiquidityUsd": 29358.9,
-      "astroportLpTotalSupply": "1039335122",
-      "astroportDayFeesUsd": 0.30402,
-      "astroportFeeApr": 0.003513402355623099,
+      "astroportTvlUsd": 32078.7,
+      "astroportDayVolumeUsd": 474.931,
+      "astroportStakedLiquidityUsd": 29811,
+      "astroportLpTotalSupply": "1039501165",
+      "astroportDayFeesUsd": 0.447331,
+      "astroportFeeApr": 0.005089851365547853,
       "astroportAssets": [
         {
           "symbol": "LUNA",
           "denom": "uluna",
-          "amount": "300230326110",
-          "price_usd": 0.05341,
+          "amount": "296778400047",
+          "price_usd": 0.054361,
           "precision": 6
         },
         {
           "symbol": "PAXG",
           "denom": "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62",
-          "amount": "3623734409813120000",
-          "price_usd": 4306.05,
+          "amount": "3667913519382082600",
+          "price_usd": 4322.33,
           "precision": 18
         }
       ],
@@ -1060,46 +982,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 106823.93,
-          "avgVolume": 43.08156971428571,
-          "liqPointCount": 1,
-          "volPointCount": 1
-        },
         "186": {
-          "avgLiquidity": 98416.6390909091,
-          "avgVolume": 196.9546625952381,
-          "liqPointCount": 11,
-          "volPointCount": 11
+          "avgLiquidity": 98862.32900000001,
+          "avgVolume": 185.38544578571432,
+          "liqPointCount": 10,
+          "volPointCount": 10
         },
         "187": {
-          "avgLiquidity": 95595.09,
-          "avgVolume": 274.64941740476195,
-          "liqPointCount": 10,
-          "volPointCount": 10
-        },
-        "188": {
-          "avgLiquidity": 58751.22909090908,
-          "avgVolume": 331.1008120952381,
+          "avgLiquidity": 95819.08363636363,
+          "avgVolume": 293.1159604047619,
           "liqPointCount": 11,
           "volPointCount": 11
         },
-        "189": {
-          "avgLiquidity": 28254.627,
-          "avgVolume": 98.72739780952381,
+        "188": {
+          "avgLiquidity": 61603.655000000006,
+          "avgVolume": 312.618034,
           "liqPointCount": 10,
           "volPointCount": 10
         },
+        "189": {
+          "avgLiquidity": 28339.76272727273,
+          "avgVolume": 105.12350114285717,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
         "190": {
-          "avgLiquidity": 31504.585,
-          "avgVolume": 5.2047285714285705,
-          "liqPointCount": 2,
-          "volPointCount": 1
+          "avgLiquidity": 31838.74,
+          "avgVolume": 9.139374523809522,
+          "liqPointCount": 3,
+          "volPointCount": 2
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 31504.585,
-      "spotLiquidity": 31504.585,
+      "latestLiquidity": 31838.74,
+      "spotLiquidity": 31838.74,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -1112,25 +1028,25 @@
       "poolContract": "terra1p9lcjw8knxhtv2pyr9wa8e2ushjnjllljvsuu9cugv7trqynjzasz4x52j",
       "lpAddress": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0",
       "poolType": "concentrated",
-      "astroportTvlUsd": 26523.9,
-      "astroportDayVolumeUsd": 73.4991,
-      "astroportStakedLiquidityUsd": 24007.9,
-      "astroportLpTotalSupply": "154807420054",
-      "astroportDayFeesUsd": 0.051363,
-      "astroportFeeApr": 0.0007068151742390811,
+      "astroportTvlUsd": 27109.1,
+      "astroportDayVolumeUsd": 174.634,
+      "astroportStakedLiquidityUsd": 24534.9,
+      "astroportLpTotalSupply": "155049520483",
+      "astroportDayFeesUsd": 0.139424,
+      "astroportFeeApr": 0.0018772205643123507,
       "astroportAssets": [
         {
           "symbol": "LUNA",
           "denom": "uluna",
-          "amount": "323816913268",
-          "price_usd": 0.05341,
+          "amount": "324272458770",
+          "price_usd": 0.054361,
           "precision": 6
         },
         {
           "symbol": "arbLUNA",
           "denom": "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490",
-          "amount": "66128963044",
-          "price_usd": 0.14049776530727862,
+          "amount": "66251013190",
+          "price_usd": 0.14311245383415125,
           "precision": 6
         }
       ],
@@ -1138,46 +1054,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 101800.03,
-          "avgVolume": 9.779001904761905,
-          "liqPointCount": 1,
-          "volPointCount": 1
-        },
         "186": {
-          "avgLiquidity": 89806.76818181817,
-          "avgVolume": 71.66211902380954,
-          "liqPointCount": 11,
-          "volPointCount": 11
-        },
-        "187": {
-          "avgLiquidity": 72135.14700000001,
-          "avgVolume": 84.95555552380954,
-          "liqPointCount": 10,
-          "volPointCount": 9
-        },
-        "188": {
-          "avgLiquidity": 48332.71636363636,
-          "avgVolume": 91.10375969047618,
-          "liqPointCount": 11,
-          "volPointCount": 11
-        },
-        "189": {
-          "avgLiquidity": 24551.673,
-          "avgVolume": 24.38001123809524,
+          "avgLiquidity": 90119.78,
+          "avgVolume": 69.84502378571429,
           "liqPointCount": 10,
           "volPointCount": 10
         },
+        "187": {
+          "avgLiquidity": 73408.22181818182,
+          "avgVolume": 92.376276,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
+        "188": {
+          "avgLiquidity": 46381.052,
+          "avgVolume": 82.58316007142858,
+          "liqPointCount": 10,
+          "volPointCount": 10
+        },
+        "189": {
+          "avgLiquidity": 24460.088181818184,
+          "avgVolume": 28.37738514285714,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
         "190": {
-          "avgLiquidity": 27666.6,
-          "avgVolume": 1.9765665476190475,
-          "liqPointCount": 2,
-          "volPointCount": 1
+          "avgLiquidity": 26980.5,
+          "avgVolume": 2.846528,
+          "liqPointCount": 3,
+          "volPointCount": 2
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 27666.6,
-      "spotLiquidity": 27666.6,
+      "latestLiquidity": 26980.5,
+      "spotLiquidity": 26980.5,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -1190,25 +1100,25 @@
       "poolContract": "terra1aategw0787y4fyunmwdvdqraxfc8jtxykyed2skx3p5fd3lkgkmsqry7pz",
       "lpAddress": "terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4",
       "poolType": "concentrated",
-      "astroportTvlUsd": 20985.8,
-      "astroportDayVolumeUsd": 270.382,
-      "astroportStakedLiquidityUsd": 17908.4,
-      "astroportLpTotalSupply": "43891195815",
-      "astroportDayFeesUsd": 0.587474,
-      "astroportFeeApr": 0.010217766775629232,
+      "astroportTvlUsd": 21270.3,
+      "astroportDayVolumeUsd": 448.494,
+      "astroportStakedLiquidityUsd": 18146.5,
+      "astroportLpTotalSupply": "43894775964",
+      "astroportDayFeesUsd": 0.958811,
+      "astroportFeeApr": 0.01645327122795635,
       "astroportAssets": [
         {
           "symbol": "USDT",
           "denom": "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5",
-          "amount": "10460616040",
-          "price_usd": 0.9994,
+          "amount": "10577048210",
+          "price_usd": 0.999063,
           "precision": 6
         },
         {
           "symbol": "LUNA",
           "denom": "uluna",
-          "amount": "197913677775",
-          "price_usd": 0.05341,
+          "amount": "195819140633",
+          "price_usd": 0.054361,
           "precision": 6
         }
       ],
@@ -1216,46 +1126,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 23830.48,
-          "avgVolume": 24.843100476190475,
-          "liqPointCount": 1,
-          "volPointCount": 1
-        },
         "186": {
-          "avgLiquidity": 23099.20363636364,
-          "avgVolume": 41.402723904761906,
-          "liqPointCount": 11,
-          "volPointCount": 11
+          "avgLiquidity": 23152.810999999998,
+          "avgVolume": 37.047521523809515,
+          "liqPointCount": 10,
+          "volPointCount": 10
         },
         "187": {
-          "avgLiquidity": 22851.460000000003,
-          "avgVolume": 48.67631404761904,
-          "liqPointCount": 10,
-          "volPointCount": 10
-        },
-        "188": {
-          "avgLiquidity": 23360.88181818182,
-          "avgVolume": 134.9524135,
+          "avgLiquidity": 22871.19,
+          "avgVolume": 50.80003357142858,
           "liqPointCount": 11,
           "volPointCount": 11
         },
-        "189": {
-          "avgLiquidity": 20698.612999999998,
-          "avgVolume": 34.17175273809524,
+        "188": {
+          "avgLiquidity": 24059.911,
+          "avgVolume": 127.9943582619048,
           "liqPointCount": 10,
           "volPointCount": 10
         },
+        "189": {
+          "avgLiquidity": 20668.32909090909,
+          "avgVolume": 43.35835178571428,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
         "190": {
-          "avgLiquidity": 20999.4,
-          "avgVolume": 6.077423095238096,
-          "liqPointCount": 2,
-          "volPointCount": 1
+          "avgLiquidity": 21128.91,
+          "avgVolume": 7.190749999999999,
+          "liqPointCount": 3,
+          "volPointCount": 2
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 20999.4,
-      "spotLiquidity": 20999.4,
+      "latestLiquidity": 21128.91,
+      "spotLiquidity": 21128.91,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -1268,25 +1172,25 @@
       "poolContract": "terra1e45ctmel6t5m9vdgxv3zxh3ecflkfcd6mr42sluzrqnhveqmy3fss338s7",
       "lpAddress": "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8",
       "poolType": "xyk",
-      "astroportTvlUsd": 10953.1,
-      "astroportDayVolumeUsd": 438.747,
-      "astroportStakedLiquidityUsd": 8675.54,
-      "astroportLpTotalSupply": "19133594436",
-      "astroportDayFeesUsd": 0.86871,
-      "astroportFeeApr": 0.0289488044480558,
+      "astroportTvlUsd": 11114.5,
+      "astroportDayVolumeUsd": 197.973,
+      "astroportStakedLiquidityUsd": 8801.36,
+      "astroportLpTotalSupply": "19136735641",
+      "astroportDayFeesUsd": 0.397666,
+      "astroportFeeApr": 0.013059344999775067,
       "astroportAssets": [
         {
           "symbol": "SOLID",
           "denom": "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst",
-          "amount": "5522651954",
-          "price_usd": 0.9952484268460595,
+          "amount": "5581791666",
+          "price_usd": 0.997279096911713,
           "precision": 6
         },
         {
           "symbol": "LUNA",
           "denom": "uluna",
-          "amount": "102480176005",
-          "price_usd": 0.05341,
+          "amount": "101434973730",
+          "price_usd": 0.054361,
           "precision": 6
         }
       ],
@@ -1294,46 +1198,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 12360.43,
-          "avgVolume": 5.5564094285714285,
-          "liqPointCount": 1,
-          "volPointCount": 1
-        },
         "186": {
-          "avgLiquidity": 13333.93090909091,
-          "avgVolume": 25.18096642857143,
-          "liqPointCount": 11,
-          "volPointCount": 11
+          "avgLiquidity": 13371.038,
+          "avgVolume": 22.746967023809525,
+          "liqPointCount": 10,
+          "volPointCount": 10
         },
         "187": {
-          "avgLiquidity": 13396.147,
-          "avgVolume": 27.99778795238095,
-          "liqPointCount": 10,
-          "volPointCount": 10
-        },
-        "188": {
-          "avgLiquidity": 12524.04,
-          "avgVolume": 75.13123142857141,
+          "avgLiquidity": 13400.589090909092,
+          "avgVolume": 29.334741642857146,
           "liqPointCount": 11,
           "volPointCount": 11
         },
-        "189": {
-          "avgLiquidity": 12163.081,
-          "avgVolume": 18.292227714285715,
+        "188": {
+          "avgLiquidity": 12475.362000000001,
+          "avgVolume": 71.4222160952381,
           "liqPointCount": 10,
           "volPointCount": 10
         },
+        "189": {
+          "avgLiquidity": 12147.50181818182,
+          "avgVolume": 23.084375,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
         "190": {
-          "avgLiquidity": 10906.255000000001,
-          "avgVolume": 10.666187023809524,
-          "liqPointCount": 2,
-          "volPointCount": 1
+          "avgLiquidity": 11018.503333333332,
+          "avgVolume": 10.889092142857145,
+          "liqPointCount": 3,
+          "volPointCount": 2
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 10906.255000000001,
-      "spotLiquidity": 10906.255000000001,
+      "latestLiquidity": 11018.503333333332,
+      "spotLiquidity": 11018.503333333332,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -1346,25 +1244,25 @@
       "poolContract": "terra1nwepezm3mghyxm7fjfhfr2d4jwqzndtncf9tclgunqfcwhe52mpq4sxaqr",
       "lpAddress": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht",
       "poolType": "concentrated",
-      "astroportTvlUsd": 9734.58,
-      "astroportDayVolumeUsd": 1316.08,
-      "astroportStakedLiquidityUsd": 8627.56,
-      "astroportLpTotalSupply": "946910075988",
-      "astroportDayFeesUsd": 2.6864,
-      "astroportFeeApr": 0.10072709865243287,
+      "astroportTvlUsd": 10416.7,
+      "astroportDayVolumeUsd": 645.54,
+      "astroportStakedLiquidityUsd": 9231.32,
+      "astroportLpTotalSupply": "948329033558",
+      "astroportDayFeesUsd": 1.18062,
+      "astroportFeeApr": 0.041368792419864256,
       "astroportAssets": [
         {
           "symbol": "ASTRO",
           "denom": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995",
-          "amount": "11348915080794",
-          "price_usd": 0.000434906590555956,
+          "amount": "11043362895882",
+          "price_usd": 0.0004619811662015,
           "precision": 6
         },
         {
           "symbol": "LUNA",
           "denom": "uluna",
-          "amount": "90356884541",
-          "price_usd": 0.05341,
+          "amount": "93205024570",
+          "price_usd": 0.054361,
           "precision": 6
         }
       ],
@@ -1372,46 +1270,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 0,
-          "avgVolume": 2.346800404761905,
-          "liqPointCount": 0,
-          "volPointCount": 1
-        },
         "186": {
-          "avgLiquidity": 10973.611818181818,
-          "avgVolume": 58.274673404761906,
-          "liqPointCount": 11,
-          "volPointCount": 11
+          "avgLiquidity": 10950.739,
+          "avgVolume": 47.53847269047618,
+          "liqPointCount": 10,
+          "volPointCount": 10
         },
         "187": {
-          "avgLiquidity": 11813.837,
-          "avgVolume": 57.12682157142857,
-          "liqPointCount": 10,
-          "volPointCount": 10
-        },
-        "188": {
-          "avgLiquidity": 10371.252727272727,
-          "avgVolume": 280.7892314761905,
+          "avgLiquidity": 11849.952727272728,
+          "avgVolume": 67.95909085714285,
           "liqPointCount": 11,
           "volPointCount": 11
         },
-        "189": {
-          "avgLiquidity": 8090.874000000001,
-          "avgVolume": 253.91476466666668,
+        "188": {
+          "avgLiquidity": 10174.281000000003,
+          "avgVolume": 257.2105362380952,
           "liqPointCount": 10,
           "volPointCount": 10
         },
+        "189": {
+          "avgLiquidity": 8037.851818181816,
+          "avgVolume": 287.92341152380953,
+          "liqPointCount": 11,
+          "volPointCount": 11
+        },
         "190": {
-          "avgLiquidity": 9129.9,
-          "avgVolume": 28.117176333333333,
-          "liqPointCount": 2,
-          "volPointCount": 1
+          "avgLiquidity": 9940.266666666666,
+          "avgVolume": 37.71978466666666,
+          "liqPointCount": 3,
+          "volPointCount": 2
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 9129.9,
-      "spotLiquidity": 9129.9,
+      "latestLiquidity": 9940.266666666666,
+      "spotLiquidity": 9940.266666666666,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -1424,25 +1316,25 @@
       "poolContract": "terra16nfwldn9j5xhry2y78gvm3x4vte8vu77zr3ctlan79w5f5aheawqnz7a4f",
       "lpAddress": "terra19z7g4fnu529250sdkdmgm9kw4qgwmmqrjas9t24ll84mpd94lxnshf0z2h",
       "poolType": "stable",
-      "astroportTvlUsd": 9377.01,
-      "astroportDayVolumeUsd": 19.3336,
-      "astroportStakedLiquidityUsd": 7997.61,
+      "astroportTvlUsd": 9618.68,
+      "astroportDayVolumeUsd": 26.3167,
+      "astroportStakedLiquidityUsd": 8203.73,
       "astroportLpTotalSupply": "70129946715",
-      "astroportDayFeesUsd": 0.004304,
-      "astroportFeeApr": 0.00016753314755982925,
+      "astroportDayFeesUsd": 0.00662,
+      "astroportFeeApr": 0.0002512091056153202,
       "astroportAssets": [
         {
           "symbol": "arbLUNA",
           "denom": "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490",
-          "amount": "10007588617",
-          "price_usd": 0.14049776530727862,
+          "amount": "10014595576",
+          "price_usd": 0.14311245383415125,
           "precision": 6
         },
         {
           "symbol": "LUNA",
           "denom": "uluna",
-          "amount": "149686716251",
-          "price_usd": 0.05341,
+          "amount": "149666234155",
+          "price_usd": 0.054361,
           "precision": 6
         }
       ],
@@ -1450,46 +1342,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 0,
-          "avgVolume": 0.6642330952380953,
-          "liqPointCount": 0,
-          "volPointCount": 1
-        },
         "186": {
           "avgLiquidity": 0,
-          "avgVolume": 4.67054088095238,
-          "liqPointCount": 0,
-          "volPointCount": 10
-        },
-        "187": {
-          "avgLiquidity": 0,
-          "avgVolume": 88.98847428571428,
+          "avgVolume": 4.424034833333333,
           "liqPointCount": 0,
           "volPointCount": 9
         },
-        "188": {
+        "187": {
           "avgLiquidity": 0,
-          "avgVolume": 34.770803095238094,
+          "avgVolume": 89.43103476190475,
           "liqPointCount": 0,
           "volPointCount": 11
         },
-        "189": {
+        "188": {
           "avgLiquidity": 0,
-          "avgVolume": 4.859899785714286,
+          "avgVolume": 33.95608333333333,
           "liqPointCount": 0,
           "volPointCount": 10
         },
+        "189": {
+          "avgLiquidity": 0,
+          "avgVolume": 5.629005500000001,
+          "liqPointCount": 0,
+          "volPointCount": 11
+        },
         "190": {
-          "avgLiquidity": 9377.01,
-          "avgVolume": 0.4500828571428572,
+          "avgLiquidity": 9618.68,
+          "avgVolume": 0.46032357142857144,
           "liqPointCount": 1,
-          "volPointCount": 1
+          "volPointCount": 2
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 9377.01,
-      "spotLiquidity": 9377.01,
+      "latestLiquidity": 9618.68,
+      "spotLiquidity": 9618.68,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -1502,25 +1388,25 @@
       "poolContract": "terra1a0h6vrzkztjystg8sd949qyrc6mw9gzxk2870cr2mukg53uzgvqs46qul9",
       "lpAddress": "terra12mvtdvn4fgtsqs4fwxr56vcwjw0xe23lhdfyjq5ghk7vmfeuxn0srau9q2",
       "poolType": "concentrated",
-      "astroportTvlUsd": 7841.69,
-      "astroportDayVolumeUsd": 642.588,
-      "astroportStakedLiquidityUsd": 235.856,
+      "astroportTvlUsd": 7937.09,
+      "astroportDayVolumeUsd": 1187.26,
+      "astroportStakedLiquidityUsd": 238.725,
       "astroportLpTotalSupply": "1664137201",
-      "astroportDayFeesUsd": 0.32707,
-      "astroportFeeApr": 0.015223829302101968,
+      "astroportDayFeesUsd": 0.581293,
+      "astroportFeeApr": 0.02673170456678707,
       "astroportAssets": [
         {
           "symbol": "ATOM",
           "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-          "amount": "2475149586",
-          "price_usd": 1.96,
+          "amount": "2430743877",
+          "price_usd": 1.99,
           "precision": 6
         },
         {
           "symbol": "dATOM",
           "denom": "ibc/223FF539430381ADAB3A66AC4822E253C3F845E9841F17FEEC207B3AA9F8D915",
-          "amount": "1056201236",
-          "price_usd": 2.8693514090833614,
+          "amount": "1087050856",
+          "price_usd": 2.8444429829279985,
           "precision": 6
         }
       ],
@@ -1528,46 +1414,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 0,
-          "avgVolume": 105.85802261904759,
-          "liqPointCount": 0,
-          "volPointCount": 1
-        },
         "186": {
           "avgLiquidity": 0,
-          "avgVolume": 533.8344056666667,
+          "avgVolume": 510.71510900000004,
           "liqPointCount": 0,
-          "volPointCount": 11
+          "volPointCount": 10
         },
         "187": {
           "avgLiquidity": 0,
-          "avgVolume": 219.35702945238094,
-          "liqPointCount": 0,
-          "volPointCount": 10
-        },
-        "188": {
-          "avgLiquidity": 0,
-          "avgVolume": 54.29659600000001,
+          "avgVolume": 228.76532969047616,
           "liqPointCount": 0,
           "volPointCount": 11
         },
+        "188": {
+          "avgLiquidity": 0,
+          "avgVolume": 51.0992148095238,
+          "liqPointCount": 0,
+          "volPointCount": 9
+        },
         "189": {
           "avgLiquidity": 0,
-          "avgVolume": 60.110834666666676,
+          "avgVolume": 64.66348561904762,
           "liqPointCount": 0,
-          "volPointCount": 10
+          "volPointCount": 11
         },
         "190": {
-          "avgLiquidity": 7841.69,
-          "avgVolume": 3.251995952380951,
+          "avgLiquidity": 7937.09,
+          "avgVolume": 23.944857047619053,
           "liqPointCount": 1,
-          "volPointCount": 1
+          "volPointCount": 2
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 7841.69,
-      "spotLiquidity": 7841.69,
+      "latestLiquidity": 7937.09,
+      "spotLiquidity": 7937.09,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -1580,10 +1460,10 @@
       "poolContract": "terra1re0yj0j6e9v2szg7kp02ut6u8jjea586t6pnpq6628wl36fphtpqwt6l7p",
       "lpAddress": "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc",
       "poolType": "stable",
-      "astroportTvlUsd": 6150.74,
+      "astroportTvlUsd": 6431.19,
       "astroportDayVolumeUsd": 0,
-      "astroportStakedLiquidityUsd": 4506.39,
-      "astroportLpTotalSupply": "53811854066",
+      "astroportStakedLiquidityUsd": 4710.87,
+      "astroportLpTotalSupply": "53820585920",
       "astroportDayFeesUsd": 0,
       "astroportFeeApr": 0,
       "astroportAssets": [
@@ -1591,14 +1471,14 @@
           "symbol": "stLUNA",
           "denom": "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431",
           "amount": "11834344156",
-          "price_usd": 0.05341,
+          "price_usd": 0.054361,
           "precision": 6
         },
         {
           "symbol": "LUNA",
           "denom": "uluna",
-          "amount": "103635573221",
-          "price_usd": 0.05341,
+          "amount": "103655953329",
+          "price_usd": 0.054361,
           "precision": 6
         }
       ],
@@ -1606,46 +1486,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 7228.55,
-          "avgVolume": 0,
-          "liqPointCount": 1,
-          "volPointCount": 0
-        },
         "186": {
-          "avgLiquidity": 6757.834545454545,
+          "avgLiquidity": 6827.514999999999,
           "avgVolume": 0.00849254761904762,
-          "liqPointCount": 11,
-          "volPointCount": 2
-        },
-        "187": {
-          "avgLiquidity": 6695.308,
-          "avgVolume": 2.8790949761904763,
           "liqPointCount": 10,
           "volPointCount": 2
         },
+        "187": {
+          "avgLiquidity": 6748.704545454545,
+          "avgVolume": 2.8790949761904763,
+          "liqPointCount": 11,
+          "volPointCount": 2
+        },
         "188": {
-          "avgLiquidity": 6291.798181818182,
+          "avgLiquidity": 6264.083000000001,
+          "avgVolume": 0,
+          "liqPointCount": 10,
+          "volPointCount": 0
+        },
+        "189": {
+          "avgLiquidity": 5963.460909090908,
           "avgVolume": 3.095238095238095e-7,
           "liqPointCount": 11,
           "volPointCount": 1
         },
-        "189": {
-          "avgLiquidity": 5980.761,
-          "avgVolume": 0,
-          "liqPointCount": 10,
-          "volPointCount": 0
-        },
         "190": {
-          "avgLiquidity": 6155.91,
+          "avgLiquidity": 6279.836666666666,
           "avgVolume": 0,
-          "liqPointCount": 2,
+          "liqPointCount": 3,
           "volPointCount": 0
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 6155.91,
-      "spotLiquidity": 6155.91,
+      "latestLiquidity": 6279.836666666666,
+      "spotLiquidity": 6279.836666666666,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -1658,25 +1532,25 @@
       "poolContract": "terra1h32epkd72x7st0wk49z35qlpsxf26pw4ydacs8acq6uka7hgshmq7z7vl9",
       "lpAddress": "terra1h3z2zv6aw94fx5263dy6tgz6699kxmewlx3vrcu4jjrudg6xmtyqk6vt0u",
       "poolType": "stable",
-      "astroportTvlUsd": 5969.3,
-      "astroportDayVolumeUsd": 36.701,
-      "astroportStakedLiquidityUsd": 4473.72,
+      "astroportTvlUsd": 6242.17,
+      "astroportDayVolumeUsd": 0,
+      "astroportStakedLiquidityUsd": 4677.01,
       "astroportLpTotalSupply": "52307819678",
-      "astroportDayFeesUsd": 0.009199,
-      "astroportFeeApr": 0.000562483875831336,
+      "astroportDayFeesUsd": 0,
+      "astroportFeeApr": 0,
       "astroportAssets": [
         {
           "symbol": "bLUNA",
           "denom": "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
-          "amount": "12648815478",
-          "price_usd": 0.05340932354346401,
+          "amount": "12604711010",
+          "price_usd": 0.05436031202550087,
           "precision": 6
         },
         {
           "symbol": "LUNA",
           "denom": "uluna",
-          "amount": "99415151907",
-          "price_usd": 0.05341,
+          "amount": "99491275929",
+          "price_usd": 0.054361,
           "precision": 6
         }
       ],
@@ -1684,46 +1558,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 0,
-          "avgVolume": 0.6251880952380953,
-          "liqPointCount": 0,
-          "volPointCount": 1
-        },
         "186": {
           "avgLiquidity": 7117.01,
-          "avgVolume": 1.1372387380952382,
-          "liqPointCount": 11,
+          "avgVolume": 1.137238738095238,
+          "liqPointCount": 10,
           "volPointCount": 3
         },
         "187": {
-          "avgLiquidity": 6975.8809999999985,
+          "avgLiquidity": 6974.455454545453,
           "avgVolume": 1.95695230952381,
+          "liqPointCount": 11,
+          "volPointCount": 5
+        },
+        "188": {
+          "avgLiquidity": 6960.199999999999,
+          "avgVolume": 278.2704245714284,
           "liqPointCount": 10,
           "volPointCount": 6
         },
-        "188": {
-          "avgLiquidity": 6960.199999999998,
-          "avgVolume": 278.27042457142875,
-          "liqPointCount": 11,
-          "volPointCount": 4
-        },
         "189": {
-          "avgLiquidity": 6960.199999999999,
+          "avgLiquidity": 6960.199999999998,
           "avgVolume": 12.299601095238094,
-          "liqPointCount": 10,
-          "volPointCount": 3
+          "liqPointCount": 11,
+          "volPointCount": 5
         },
         "190": {
-          "avgLiquidity": 6464.75,
+          "avgLiquidity": 6720.856666666667,
           "avgVolume": 0.8738329523809525,
-          "liqPointCount": 2,
+          "liqPointCount": 3,
           "volPointCount": 1
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 6464.75,
-      "spotLiquidity": 6464.75,
+      "latestLiquidity": 6720.856666666667,
+      "spotLiquidity": 6720.856666666667,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -1736,24 +1604,24 @@
       "poolContract": "terra1yga5eepqnpg77gaj59uqfkm2qtllvpq642cmx5gj5lzjf5v88wzs2srzp7",
       "lpAddress": "terra18336lhc2vt9s9tw4pqetvdwywg9555rduzv527r9q47smw89epcsxgxuny",
       "poolType": "xyk",
-      "astroportTvlUsd": 761.066,
+      "astroportTvlUsd": 753.64,
       "astroportDayVolumeUsd": 0,
-      "astroportStakedLiquidityUsd": 761.066,
+      "astroportStakedLiquidityUsd": 753.64,
       "astroportLpTotalSupply": "371169456322555140",
-      "astroportDayFeesUsd": 0.001149,
-      "astroportFeeApr": 0.0005510494490622328,
+      "astroportDayFeesUsd": 0.020252,
+      "astroportFeeApr": 0.009808370044052862,
       "astroportAssets": [
         {
           "symbol": "wstETH",
           "denom": "ibc/A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C",
-          "amount": "343889761842374100",
-          "price_usd": 2215.05,
+          "amount": "339326141485767400",
+          "price_usd": 2215.61,
           "precision": 18
         },
         {
           "symbol": "WETH.axl",
           "denom": "ibc/BC8A77AFBD872FDC32A348D3FB10CC09277C266CFE52081DE341C7EC6752E674",
-          "amount": "413373124287016300",
+          "amount": "418943899510216770",
           "price_usd": 0,
           "precision": 18
         }
@@ -1775,27 +1643,27 @@
           "volPointCount": 0
         },
         "188": {
-          "avgLiquidity": 897.0399999999998,
-          "avgVolume": 1.0137331428571428,
-          "liqPointCount": 11,
-          "volPointCount": 5
-        },
-        "189": {
           "avgLiquidity": 897.04,
-          "avgVolume": 1.2046358571428573,
+          "avgVolume": 0.773421238095238,
           "liqPointCount": 10,
           "volPointCount": 3
         },
+        "189": {
+          "avgLiquidity": 897.0399999999998,
+          "avgVolume": 1.444947761904762,
+          "liqPointCount": 11,
+          "volPointCount": 3
+        },
         "190": {
-          "avgLiquidity": 829.0550000000001,
+          "avgLiquidity": 849.2399999999999,
           "avgVolume": 0,
-          "liqPointCount": 2,
+          "liqPointCount": 3,
           "volPointCount": 0
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 829.0550000000001,
-      "spotLiquidity": 829.0550000000001,
+      "latestLiquidity": 849.2399999999999,
+      "spotLiquidity": 849.2399999999999,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -1808,25 +1676,25 @@
       "poolContract": "terra1crlsemxx6yjpeq3am9dzccln0dykusm685ecxscuyny7u596elqqj6xd9z",
       "lpAddress": "terra1wwy8xjk4mff7qp2g7qzmgfu9agd6wjdmz99crj94zv9tmh7dvhmq0jsf6a",
       "poolType": "xyk",
-      "astroportTvlUsd": 633.747,
-      "astroportDayVolumeUsd": 4.62049,
-      "astroportStakedLiquidityUsd": 29.2686,
+      "astroportTvlUsd": 643.55,
+      "astroportDayVolumeUsd": 5.54045,
+      "astroportStakedLiquidityUsd": 29.7214,
       "astroportLpTotalSupply": "133295243217",
-      "astroportDayFeesUsd": 0.00933,
-      "astroportFeeApr": 0.005373516561025139,
+      "astroportDayFeesUsd": 0.011042,
+      "astroportFeeApr": 0.0062626524745552,
       "astroportAssets": [
         {
           "symbol": "SWTH",
           "denom": "ibc/792AAE6279F4709F66068E29A79E6F16BBC0A9B93561A91FC040606793E62D6B",
-          "amount": "111038079016381",
-          "price_usd": 0.00028969,
+          "amount": "109105175959142",
+          "price_usd": 0.00028631,
           "precision": 8
         },
         {
           "symbol": "LUNA",
           "denom": "uluna",
-          "amount": "5843582065",
-          "price_usd": 0.05341,
+          "amount": "5947317150",
+          "price_usd": 0.054361,
           "precision": 6
         }
       ],
@@ -1834,46 +1702,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 0,
-          "avgVolume": 1.5145809523809521,
-          "liqPointCount": 0,
-          "volPointCount": 1
-        },
         "186": {
           "avgLiquidity": 0,
-          "avgVolume": 0.3371921666666666,
+          "avgVolume": 0.2918313571428571,
           "liqPointCount": 0,
-          "volPointCount": 5
+          "volPointCount": 4
         },
         "187": {
           "avgLiquidity": 0,
-          "avgVolume": 2.0004327380952382,
+          "avgVolume": 2.138876642857143,
           "liqPointCount": 0,
-          "volPointCount": 5
+          "volPointCount": 7
         },
         "188": {
           "avgLiquidity": 0,
-          "avgVolume": 0.9295250476190475,
+          "avgVolume": 0.8356260952380953,
           "liqPointCount": 0,
-          "volPointCount": 8
+          "volPointCount": 6
         },
         "189": {
           "avgLiquidity": 0,
-          "avgVolume": 0.8234978571428572,
+          "avgVolume": 0.8243137142857144,
           "liqPointCount": 0,
           "volPointCount": 6
         },
         "190": {
-          "avgLiquidity": 633.75,
-          "avgVolume": 0,
+          "avgLiquidity": 643.55,
+          "avgVolume": 0.11001178571428571,
           "liqPointCount": 1,
-          "volPointCount": 0
+          "volPointCount": 1
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 633.75,
-      "spotLiquidity": 633.75,
+      "latestLiquidity": 643.55,
+      "spotLiquidity": 643.55,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -1886,9 +1748,9 @@
       "poolContract": "terra1f9vmtntpjmkyhkxtlc49jcq6cv8rfz0kr06zv6efdtdgae4m9y9qlzm36t",
       "lpAddress": "terra1pz99udaf85erk8lumjylczz0cuf70mmq9gns3ejxt7s3mk266mqq6gkqkn",
       "poolType": "concentrated",
-      "astroportTvlUsd": 612.98,
-      "astroportDayVolumeUsd": 0.392,
-      "astroportStakedLiquidityUsd": 0.0255986,
+      "astroportTvlUsd": 628.698,
+      "astroportDayVolumeUsd": 0,
+      "astroportStakedLiquidityUsd": 0.0262483,
       "astroportLpTotalSupply": "188262040",
       "astroportDayFeesUsd": 0,
       "astroportFeeApr": 0,
@@ -1897,7 +1759,7 @@
           "symbol": "ATOM",
           "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
           "amount": "314348758",
-          "price_usd": 1.96,
+          "price_usd": 1.99,
           "precision": 6
         },
         {
@@ -1937,15 +1799,15 @@
           "volPointCount": 2
         },
         "190": {
-          "avgLiquidity": 612.98,
-          "avgVolume": 0,
+          "avgLiquidity": 628.7,
+          "avgVolume": 0.009333333333333334,
           "liqPointCount": 1,
-          "volPointCount": 0
+          "volPointCount": 1
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 612.98,
-      "spotLiquidity": 612.98,
+      "latestLiquidity": 628.7,
+      "spotLiquidity": 628.7,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -1958,18 +1820,18 @@
       "poolContract": "terra1afkvgc0mxfqakqlaqpxdgy58n79x4r239q3tucxmrsqvqk7ce3ksnctxfu",
       "lpAddress": "terra1a5apghncafx0nem740fsrmd6demaywvp332a4uat63u2jtwn8mgsz7khkw",
       "poolType": "concentrated",
-      "astroportTvlUsd": 604.867,
-      "astroportDayVolumeUsd": 0.385775,
-      "astroportStakedLiquidityUsd": 358.775,
+      "astroportTvlUsd": 617.324,
+      "astroportDayVolumeUsd": 0,
+      "astroportStakedLiquidityUsd": 366.164,
       "astroportLpTotalSupply": "4327878",
-      "astroportDayFeesUsd": 0.000375,
-      "astroportFeeApr": 0.00022628941568972956,
+      "astroportDayFeesUsd": 0,
+      "astroportFeeApr": 0,
       "astroportAssets": [
         {
           "symbol": "LUNA",
           "denom": "uluna",
           "amount": "5149783503",
-          "price_usd": 0.05341,
+          "price_usd": 0.054361,
           "precision": 6
         },
         {
@@ -1984,46 +1846,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 0,
-          "avgVolume": 1.021576904761905,
-          "liqPointCount": 0,
-          "volPointCount": 1
-        },
         "186": {
           "avgLiquidity": 0,
-          "avgVolume": 0.9530198809523811,
+          "avgVolume": 0.791058976190476,
           "liqPointCount": 0,
-          "volPointCount": 10
+          "volPointCount": 8
         },
         "187": {
           "avgLiquidity": 648.5599999999998,
-          "avgVolume": 0.9027716904761904,
+          "avgVolume": 1.0698351428571429,
           "liqPointCount": 10,
           "volPointCount": 9
         },
         "188": {
           "avgLiquidity": 648.5599999999998,
-          "avgVolume": 1.9987090476190479,
-          "liqPointCount": 11,
-          "volPointCount": 11
+          "avgVolume": 1.9294171904761905,
+          "liqPointCount": 10,
+          "volPointCount": 10
         },
         "189": {
           "avgLiquidity": 648.5599999999998,
-          "avgVolume": 0.437313880952381,
-          "liqPointCount": 10,
-          "volPointCount": 4
+          "avgVolume": 0.4478520238095238,
+          "liqPointCount": 11,
+          "volPointCount": 5
         },
         "190": {
-          "avgLiquidity": 626.7149999999999,
-          "avgVolume": 0.006275571428571428,
-          "liqPointCount": 2,
+          "avgLiquidity": 638.1466666666666,
+          "avgVolume": 0.009185119047619048,
+          "liqPointCount": 3,
           "volPointCount": 1
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 626.7149999999999,
-      "spotLiquidity": 626.7149999999999,
+      "latestLiquidity": 638.1466666666666,
+      "spotLiquidity": 638.1466666666666,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -2036,9 +1892,9 @@
       "poolContract": "terra16zzqwekwsqn4zlsyu4vhjr52ee2hdvppjcr8h22qznjadaazzdgsvd905d",
       "lpAddress": "terra1vc66wpr2ghcesnf203em6yefpze3vrmq99n8yz0me3jzs6g4e8rs2kec75",
       "poolType": "concentrated",
-      "astroportTvlUsd": 589.184,
+      "astroportTvlUsd": 595.519,
       "astroportDayVolumeUsd": 0,
-      "astroportStakedLiquidityUsd": 581.229,
+      "astroportStakedLiquidityUsd": 587.478,
       "astroportLpTotalSupply": "124058065",
       "astroportDayFeesUsd": 0,
       "astroportFeeApr": 0,
@@ -2047,14 +1903,14 @@
           "symbol": "LUNA",
           "denom": "uluna",
           "amount": "2644025250",
-          "price_usd": 0.05341,
+          "price_usd": 0.054361,
           "precision": 6
         },
         {
           "symbol": "wSOL.wh",
           "denom": "terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg",
           "amount": "608090192",
-          "price_usd": 73.85,
+          "price_usd": 73.53,
           "precision": 8
         }
       ],
@@ -2063,15 +1919,15 @@
       "isHidden": false,
       "epochs": {
         "190": {
-          "avgLiquidity": 589.18,
+          "avgLiquidity": 595.52,
           "avgVolume": 0,
           "liqPointCount": 1,
           "volPointCount": 0
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 589.18,
-      "spotLiquidity": 589.18,
+      "latestLiquidity": 595.52,
+      "spotLiquidity": 595.52,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -2084,9 +1940,9 @@
       "poolContract": "terra10clh64cpvjjen8f24qz2046d24s79w2ev2dyd9ke29wmqdqp4yjs3cyk0y",
       "lpAddress": "terra10ca0xhyjrzl3zk9g26yjxlw5rjplu5ts4jgcvvrgr62ml8jf57hqs3nck5",
       "poolType": "concentrated",
-      "astroportTvlUsd": 416.351,
+      "astroportTvlUsd": 422.447,
       "astroportDayVolumeUsd": 0,
-      "astroportStakedLiquidityUsd": 1.54025,
+      "astroportStakedLiquidityUsd": 1.56239,
       "astroportLpTotalSupply": "36345180",
       "astroportDayFeesUsd": 0,
       "astroportFeeApr": 0,
@@ -2095,14 +1951,14 @@
           "symbol": "wBNB.axl",
           "denom": "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
           "amount": "335757860873019140",
-          "price_usd": 616.65,
+          "price_usd": 605.16,
           "precision": 18
         },
         {
           "symbol": "LUNA",
           "denom": "uluna",
           "amount": "3934786079",
-          "price_usd": 0.05341,
+          "price_usd": 0.054361,
           "precision": 6
         }
       ],
@@ -2112,19 +1968,19 @@
       "epochs": {
         "186": {
           "avgLiquidity": 0,
-          "avgVolume": 0.4056866666666667,
+          "avgVolume": 0.3634247619047619,
           "liqPointCount": 0,
-          "volPointCount": 5
+          "volPointCount": 4
         },
         "187": {
           "avgLiquidity": 0,
-          "avgVolume": 0.24359642857142857,
+          "avgVolume": 0.40182047619047623,
           "liqPointCount": 0,
-          "volPointCount": 3
+          "volPointCount": 4
         },
         "188": {
           "avgLiquidity": 0,
-          "avgVolume": 0.22254826190476193,
+          "avgVolume": 0.10658611904761905,
           "liqPointCount": 0,
           "volPointCount": 2
         },
@@ -2135,15 +1991,15 @@
           "volPointCount": 2
         },
         "190": {
-          "avgLiquidity": 416.35,
+          "avgLiquidity": 422.45,
           "avgVolume": 0,
           "liqPointCount": 1,
           "volPointCount": 0
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 416.35,
-      "spotLiquidity": 416.35,
+      "latestLiquidity": 422.45,
+      "spotLiquidity": 422.45,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -2156,12 +2012,12 @@
       "poolContract": "terra1mps5z5gt2c2akwcp86mq0zhw66kdugtc3selcyradtje0vp0z49sfrk8jx",
       "lpAddress": "terra10e2rz5etaped4nh0vk502hf7uwtz5lqvxqatxl4qyr0chcynxf2swhfwww",
       "poolType": "stable",
-      "astroportTvlUsd": 368.448,
-      "astroportDayVolumeUsd": 20.0002,
-      "astroportStakedLiquidityUsd": 364.474,
+      "astroportTvlUsd": 367.348,
+      "astroportDayVolumeUsd": 0,
+      "astroportStakedLiquidityUsd": 363.386,
       "astroportLpTotalSupply": "251629",
-      "astroportDayFeesUsd": 0.006388,
-      "astroportFeeApr": 0.006328219993051936,
+      "astroportDayFeesUsd": 0,
+      "astroportFeeApr": 0,
       "astroportAssets": [
         {
           "symbol": "WBTC.axl",
@@ -2174,7 +2030,7 @@
           "symbol": "WBTC.osmo",
           "denom": "ibc/CF57A83CED6CEC7D706631B5DC53ABC21B7EDA7DF7490732B4361E6D5DD19C73",
           "amount": "245953",
-          "price_usd": 66132,
+          "price_usd": 65494,
           "precision": 8
         }
       ],
@@ -2182,46 +2038,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 0,
-          "avgVolume": 1.3789162380952382,
-          "liqPointCount": 0,
-          "volPointCount": 1
-        },
         "186": {
-          "avgLiquidity": 394.35,
-          "avgVolume": 1.6708354761904765,
-          "liqPointCount": 1,
-          "volPointCount": 9
+          "avgLiquidity": 0,
+          "avgVolume": 1.4693703571428571,
+          "liqPointCount": 0,
+          "volPointCount": 8
         },
         "187": {
           "avgLiquidity": 394.34999999999997,
-          "avgVolume": 1.848665476190476,
-          "liqPointCount": 10,
+          "avgVolume": 1.9654720714285712,
+          "liqPointCount": 11,
           "volPointCount": 10
         },
         "188": {
           "avgLiquidity": 394.34999999999997,
-          "avgVolume": 1.619533476190476,
-          "liqPointCount": 11,
-          "volPointCount": 11
+          "avgVolume": 1.6189392857142855,
+          "liqPointCount": 10,
+          "volPointCount": 10
         },
         "189": {
           "avgLiquidity": 394.34999999999997,
           "avgVolume": 0.1937680238095238,
-          "liqPointCount": 10,
+          "liqPointCount": 11,
           "volPointCount": 2
         },
         "190": {
-          "avgLiquidity": 381.4,
-          "avgVolume": 0,
-          "liqPointCount": 2,
-          "volPointCount": 0
+          "avgLiquidity": 385.3500000000001,
+          "avgVolume": 0.4761961904761905,
+          "liqPointCount": 3,
+          "volPointCount": 1
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 381.4,
-      "spotLiquidity": 381.4,
+      "latestLiquidity": 385.3500000000001,
+      "spotLiquidity": 385.3500000000001,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -2234,9 +2084,9 @@
       "poolContract": "terra1rzw2egugtjhxz2x58z55kwldm96fzck8qsf9srf5v0uehf64a2asjsak68",
       "lpAddress": "terra1mnucaeckccseq66kglv299wasp02akyh535jcpcdu37tdakr92esf9mjm5",
       "poolType": "xyk",
-      "astroportTvlUsd": 347.782,
+      "astroportTvlUsd": 342.848,
       "astroportDayVolumeUsd": 0,
-      "astroportStakedLiquidityUsd": 53.5542,
+      "astroportStakedLiquidityUsd": 52.7945,
       "astroportLpTotalSupply": "124949931586532",
       "astroportDayFeesUsd": 0,
       "astroportFeeApr": 0,
@@ -2245,7 +2095,7 @@
           "symbol": "SWTH",
           "denom": "ibc/792AAE6279F4709F66068E29A79E6F16BBC0A9B93561A91FC040606793E62D6B",
           "amount": "119751445297622",
-          "price_usd": 0.00028969,
+          "price_usd": 0.00028631,
           "precision": 8
         },
         {
@@ -2261,15 +2111,15 @@
       "isHidden": false,
       "epochs": {
         "190": {
-          "avgLiquidity": 347.78,
+          "avgLiquidity": 342.85,
           "avgVolume": 0,
           "liqPointCount": 1,
           "volPointCount": 0
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 347.78,
-      "spotLiquidity": 347.78,
+      "latestLiquidity": 342.85,
+      "spotLiquidity": 342.85,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -2282,9 +2132,9 @@
       "poolContract": "terra1p996av7ftzj973swd4yt2er2sn3v9y5j9qfxz67gatnrpf8lfgwsel8hcg",
       "lpAddress": "terra1tfr4ghftlsf2l9nxr3clewk52g5q8wj7m2rglw67dkql9x6u7w6q53gwrn",
       "poolType": "concentrated",
-      "astroportTvlUsd": 42.6498,
+      "astroportTvlUsd": 43.4706,
       "astroportDayVolumeUsd": 0,
-      "astroportStakedLiquidityUsd": 42.5303,
+      "astroportStakedLiquidityUsd": 43.3487,
       "astroportLpTotalSupply": "357191",
       "astroportDayFeesUsd": 0,
       "astroportFeeApr": 0,
@@ -2293,14 +2143,14 @@
           "symbol": "WBTC",
           "denom": "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB",
           "amount": "32375",
-          "price_usd": 66132,
+          "price_usd": 65494,
           "precision": 8
         },
         {
           "symbol": "LUNA",
           "denom": "uluna",
           "amount": "399126610",
-          "price_usd": 0.05341,
+          "price_usd": 0.054361,
           "precision": 6
         }
       ],
@@ -2308,40 +2158,34 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 0,
-          "avgVolume": 0.0031951428571428573,
-          "liqPointCount": 0,
-          "volPointCount": 1
-        },
         "187": {
           "avgLiquidity": 0,
-          "avgVolume": 0.03369295238095238,
+          "avgVolume": 0.03496902380952381,
           "liqPointCount": 0,
-          "volPointCount": 3
+          "volPointCount": 5
         },
         "188": {
           "avgLiquidity": 0,
-          "avgVolume": 0.13697035714285713,
+          "avgVolume": 0.1356942857142857,
           "liqPointCount": 0,
-          "volPointCount": 4
+          "volPointCount": 5
         },
         "189": {
           "avgLiquidity": 0,
           "avgVolume": 0.01279902380952381,
           "liqPointCount": 0,
-          "volPointCount": 2
+          "volPointCount": 3
         },
         "190": {
-          "avgLiquidity": 42.65,
+          "avgLiquidity": 43.47,
           "avgVolume": 0,
           "liqPointCount": 1,
           "volPointCount": 0
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 42.65,
-      "spotLiquidity": 42.65,
+      "latestLiquidity": 43.47,
+      "spotLiquidity": 43.47,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -2354,25 +2198,25 @@
       "poolContract": "terra1u0sp5gaw9amfa8vsaaqvvjpqqdyz4eeslzdjsgaq40afctpx7f6s6augj2",
       "lpAddress": "terra19d8tttv0lvhwpj828qqrcmm6yaqdfhrchfheuufcw4kywtmk9u3q98ask3",
       "poolType": "concentrated",
-      "astroportTvlUsd": 41.1001,
-      "astroportDayVolumeUsd": 0.601573,
-      "astroportStakedLiquidityUsd": 41.0092,
+      "astroportTvlUsd": 41.9754,
+      "astroportDayVolumeUsd": 0.76272,
+      "astroportStakedLiquidityUsd": 41.8827,
       "astroportLpTotalSupply": "667449",
-      "astroportDayFeesUsd": 0.000995,
-      "astroportFeeApr": 0.008836353196220934,
+      "astroportDayFeesUsd": 0.001662,
+      "astroportFeeApr": 0.014452036192627107,
       "astroportAssets": [
         {
           "symbol": "LUNA",
           "denom": "uluna",
-          "amount": "379698686",
-          "price_usd": 0.05341,
+          "amount": "385534095",
+          "price_usd": 0.054361,
           "precision": 6
         },
         {
           "symbol": "wstETH",
           "denom": "ibc/A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C",
-          "amount": "9432275776245700",
-          "price_usd": 2215.05,
+          "amount": "9287535751321290",
+          "price_usd": 2215.61,
           "precision": 18
         }
       ],
@@ -2380,46 +2224,40 @@
       "isBlocked": false,
       "isHidden": false,
       "epochs": {
-        "185": {
-          "avgLiquidity": 0,
-          "avgVolume": 0.006727785714285715,
-          "liqPointCount": 0,
-          "volPointCount": 1
-        },
         "186": {
           "avgLiquidity": 0,
-          "avgVolume": 0.11797138095238094,
+          "avgVolume": 0.0964787619047619,
           "liqPointCount": 0,
-          "volPointCount": 9
+          "volPointCount": 7
         },
         "187": {
           "avgLiquidity": 0,
-          "avgVolume": 0.05335630952380953,
+          "avgVolume": 0.059250119047619045,
           "liqPointCount": 0,
-          "volPointCount": 5
+          "volPointCount": 6
         },
         "188": {
           "avgLiquidity": 0,
-          "avgVolume": 0.20440488095238096,
+          "avgVolume": 0.20301973809523807,
           "liqPointCount": 0,
-          "volPointCount": 8
+          "volPointCount": 5
         },
         "189": {
           "avgLiquidity": 0,
-          "avgVolume": 0.14106688095238096,
+          "avgVolume": 0.14245202380952382,
           "liqPointCount": 0,
           "volPointCount": 4
         },
         "190": {
-          "avgLiquidity": 41.1,
-          "avgVolume": 0.0026748333333333333,
+          "avgLiquidity": 41.98,
+          "avgVolume": 0.014323166666666668,
           "liqPointCount": 1,
-          "volPointCount": 1
+          "volPointCount": 2
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 41.1,
-      "spotLiquidity": 41.1,
+      "latestLiquidity": 41.98,
+      "spotLiquidity": 41.98,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -2432,9 +2270,9 @@
       "poolContract": "terra1v3xmc8nn8h8e7z55d80a72g4rgz6mrxyasxq089k8n6m40xldlksf2w5x8",
       "lpAddress": "terra12eu8jk4w7lgn2rk7xs46nz7c7r9fw8q98afy9adlwtkghazj40asjf65zu",
       "poolType": "concentrated",
-      "astroportTvlUsd": 26.5407,
+      "astroportTvlUsd": 26.6705,
       "astroportDayVolumeUsd": 0,
-      "astroportStakedLiquidityUsd": 15.7861,
+      "astroportStakedLiquidityUsd": 15.8633,
       "astroportLpTotalSupply": "1239803",
       "astroportDayFeesUsd": 0,
       "astroportFeeApr": 0,
@@ -2443,14 +2281,14 @@
           "symbol": "LUNA",
           "denom": "uluna",
           "amount": "167381760",
-          "price_usd": 0.05341,
+          "price_usd": 0.054361,
           "precision": 6
         },
         {
           "symbol": "wBNB.wh",
           "denom": "terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388",
           "amount": "2868237",
-          "price_usd": 616.03,
+          "price_usd": 604.94,
           "precision": 8
         }
       ],
@@ -2459,15 +2297,15 @@
       "isHidden": false,
       "epochs": {
         "190": {
-          "avgLiquidity": 26.54,
+          "avgLiquidity": 26.67,
           "avgVolume": 0,
           "liqPointCount": 1,
           "volPointCount": 0
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 26.54,
-      "spotLiquidity": 26.54,
+      "latestLiquidity": 26.67,
+      "spotLiquidity": 26.67,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
@@ -2576,9 +2414,9 @@
       "poolContract": "terra1a6d0lcvfzyllulaaazzg5j70yn4m3e2t90shtlxsr3fwhcg34g2sgwfr75",
       "lpAddress": "terra1stavsz7hhsw56tngxt6p5xmkm86a9nvgztgvv56wj7q6yceutmwsvrwjdz",
       "poolType": "concentrated",
-      "astroportTvlUsd": 3.55873,
+      "astroportTvlUsd": 3.63911,
       "astroportDayVolumeUsd": 0,
-      "astroportStakedLiquidityUsd": 0.00017124,
+      "astroportStakedLiquidityUsd": 0.00017511,
       "astroportLpTotalSupply": "729712265",
       "astroportDayFeesUsd": 0,
       "astroportFeeApr": 0,
@@ -2594,7 +2432,7 @@
           "symbol": "LUNA",
           "denom": "uluna",
           "amount": "33227747",
-          "price_usd": 0.05341,
+          "price_usd": 0.054361,
           "precision": 6
         }
       ],
@@ -2604,20 +2442,26 @@
       "epochs": {
         "188": {
           "avgLiquidity": 0,
-          "avgVolume": 0.0024977380952380954,
+          "avgVolume": 0.0024895238095238095,
           "liqPointCount": 0,
-          "volPointCount": 2
+          "volPointCount": 1
+        },
+        "189": {
+          "avgLiquidity": 0,
+          "avgVolume": 0.000008214285714285714,
+          "liqPointCount": 0,
+          "volPointCount": 1
         },
         "190": {
-          "avgLiquidity": 3.56,
+          "avgLiquidity": 3.64,
           "avgVolume": 0,
           "liqPointCount": 1,
           "volPointCount": 0
         }
       },
       "latestEpoch": 190,
-      "latestLiquidity": 3.56,
-      "spotLiquidity": 3.56,
+      "latestLiquidity": 3.64,
+      "spotLiquidity": 3.64,
       "fetchOk": true,
       "fetchErrors": {},
       "deprecated": false,
