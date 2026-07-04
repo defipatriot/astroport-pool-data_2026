@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "cron": "astroport",
-  "capturedAt": "2026-07-03T23:50:26.201Z",
-  "capturedAtUnix": 1783122626201,
-  "runId": "astro-20260703235026",
+  "capturedAt": "2026-07-04T23:50:17.110Z",
+  "capturedAtUnix": 1783209017110,
+  "runId": "astro-20260704235017",
   "runMode": "daily",
   "currentEpoch": 192,
   "status": "ok",
@@ -13,9 +13,9 @@
     "failed": 0,
     "total": 36
   },
-  "dataFingerprint": "08d1d40f1bb0",
-  "previousFingerprint": "4e17338ae481",
+  "dataFingerprint": "aa34fd50f140",
+  "previousFingerprint": "08d1d40f1bb0",
   "dataFreshness": "fresh",
   "consecutiveStuckRuns": 0,
-  "next_expected_run_at": "2026-07-04T23:50:26.201Z"
+  "next_expected_run_at": "2026-07-05T23:50:17.110Z"
 }
